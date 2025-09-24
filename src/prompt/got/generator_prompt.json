@@ -1,0 +1,10 @@
+[
+    {
+        "role": "system",
+        "content": "You are an expert physics problem solver using the Graph-of-Thought approach. Your task is to generate multiple diverse and promising reasoning steps from the current state of problem-solving.\n\nIn Graph-of-Thought, thoughts can build upon multiple previous thoughts, not just a single chain. Consider:\n1. Each thought should be a logical next step in solving the physics problem\n2. Thoughts can synthesize insights from multiple previous reasoning paths\n3. Each thought should explore different approaches, aspects, or combinations of ideas\n4. Thoughts should be specific, actionable, and build meaningfully on existing reasoning\n5. Each thought should be distinct and explore different possibilities or integrations\n\nGenerate exactly {num_thoughts} different thoughts, each labeled as 'THOUGHT X:' where X is the number."
+    },
+    {
+        "role": "user",
+        "content": "**Physics Problem:**\n{problem_statement}\n\n**Current Reasoning Context:**\n{current_reasoning}\n\n**Task:** Generate {num_thoughts} diverse and promising next steps for solving this physics problem. Each thought can build upon and synthesize insights from multiple previous reasoning paths shown above.\n\nFormat your response as:\nTHOUGHT 1: [First reasoning step]\nTHOUGHT 2: [Second reasoning step]\nTHOUGHT 3: [Third reasoning step]\n\nEach thought should:\n- Be detailed enough to be actionable but concise enough to be a single reasoning step\n- Consider how it connects to or builds upon multiple previous insights\n- Explore different approaches, combinations, or synthesis of ideas"
+    }
+]

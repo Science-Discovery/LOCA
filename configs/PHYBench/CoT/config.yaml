@@ -1,0 +1,48 @@
+test_configs:
+  - name: "gemini-2.5-pro"
+    input_path: "problem_set/PHYBENCH_100/test.jsonl"
+    output_path: "test_results/PHYBench/CoT/Gemini-2.5-pro/results.jsonl"
+    scheme: "single-llm"
+    temperature: 0.0
+    models:
+      generator: "gemini-2.5-pro"
+    single_llm_options:
+      cot: true
+    tools: []
+
+  - name: "o3-2025-04-16"
+    input_path: "problem_set/PHYBENCH_100/test.jsonl"
+    output_path: "test_results/PHYBench/CoT/o3-2025-04-16/results.jsonl"
+    scheme: "single-llm"
+    temperature: 0.0
+    models:
+      generator: "o3-2025-04-16"
+    single_llm_options:
+      cot: true
+    tools: []
+
+  - name: "gpt-5"
+    input_path: "problem_set/PHYBENCH_100/test.jsonl"
+    output_path: "test_results/PHYBench/CoT/GPT-5/results.jsonl"
+    scheme: "single-llm"
+    temperature: 0.0
+    models:
+      generator: "gpt-5"
+    single_llm_options:
+      cot: true
+    tools: []
+
+  - name: "deepseek-r1-250528"
+    input_path: "problem_set/PHYBENCH_100/test.jsonl"
+    output_path: "test_results/PHYBench/CoT/DeepSeek-r1-250528/results.jsonl"
+    scheme: "single-llm"
+    temperature: 0.0
+    models:
+      generator: "deepseek-r1-250528"
+    single_llm_options:
+      cot: true
+    tools: []
+
+global_settings:
+  concurrent_limit: 10
+  aux_dir_base: ".aux"

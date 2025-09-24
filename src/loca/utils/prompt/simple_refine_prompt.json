@@ -1,0 +1,6 @@
+[
+    {
+        "role": "user",
+        "content": "You are a physics expert tasked with improving a solution to a physics problem based on review feedback.\n\n**Problem:**\n{question_statement}\n\n**Current Solution:**\n{solution}\n\n**Review Feedback:**\n{feedback}\n\nPlease provide an improved solution that addresses the issues mentioned in the feedback. The very last section of your output MUST be titled `### Final Answer`. Provide the final answer at the end in Latex boxed format \\[\\boxed{}\\]. Example: \\[ \\boxed{ final_answer} \\]"
+    }
+]

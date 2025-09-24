@@ -1,0 +1,84 @@
+test_configs:
+  - name: "gemini-2.5-pro"
+    input_path: "problem_set/PHYBENCH_100/test.jsonl"
+    output_path: "test_results/PHYBench/GoT/Gemini-2.5-pro/results.jsonl"
+    scheme: "got"
+    temperature: 0.0
+    models:
+      generator: "gemini-2.5-pro"
+    got_options:
+      evaluator_model: "gemini-2.5-pro"
+      aggregator_model: "gemini-2.5-pro"
+      evaluator_temperature: 0.0
+      aggregator_temperature: 0.0
+      max_depth: 4
+      max_nodes: 15
+      num_thoughts_per_node: 2
+      prune_threshold: 4.0
+      aggregation_threshold: 7.0
+      aggregation_interval: 4
+    tools: []
+
+  - name: "o3-2025-04-16"
+    input_path: "problem_set/PHYBENCH_100/test.jsonl"
+    output_path: "test_results/PHYBench/GoT/o3-2025-04-16/results.jsonl"
+    scheme: "got"
+    temperature: 0.0
+    models:
+      generator: "o3-2025-04-16"
+    got_options:
+      evaluator_model: "o3-2025-04-16"
+      aggregator_model: "o3-2025-04-16"
+      evaluator_temperature: 0.0
+      aggregator_temperature: 0.0
+      max_depth: 4
+      max_nodes: 15
+      num_thoughts_per_node: 2
+      prune_threshold: 4.0
+      aggregation_threshold: 7.0
+      aggregation_interval: 4
+    tools: []
+
+  - name: "gpt-5"
+    input_path: "problem_set/PHYBENCH_100/test.jsonl"
+    output_path: "test_results/PHYBench/GoT/GPT-5/results.jsonl"
+    scheme: "got"
+    temperature: 0.0
+    models:
+      generator: "gpt-5"
+    got_options:
+      evaluator_model: "gpt-5"
+      aggregator_model: "gpt-5"
+      evaluator_temperature: 0.0
+      aggregator_temperature: 0.0
+      max_depth: 4
+      max_nodes: 15
+      num_thoughts_per_node: 2
+      prune_threshold: 4.0
+      aggregation_threshold: 7.0
+      aggregation_interval: 4
+    tools: []
+
+  - name: "deepseek-r1-250528"
+    input_path: "problem_set/PHYBENCH_100/test.jsonl"
+    output_path: "test_results/PHYBench/GoT/DeepSeek-r1-250528/results.jsonl"
+    scheme: "got"
+    temperature: 0.0
+    models:
+      generator: "deepseek-r1-250528"
+    got_options:
+      evaluator_model: "deepseek-r1-250528"
+      aggregator_model: "deepseek-r1-250528"
+      evaluator_temperature: 0.0
+      aggregator_temperature: 0.0
+      max_depth: 4
+      max_nodes: 15
+      num_thoughts_per_node: 2
+      prune_threshold: 4.0
+      aggregation_threshold: 7.0
+      aggregation_interval: 4
+    tools: []
+
+global_settings:
+  concurrent_limit: 10
+  aux_dir_base: ".aux"

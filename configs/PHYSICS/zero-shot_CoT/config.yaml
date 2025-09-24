@@ -1,0 +1,14 @@
+test_configs:
+- name: gemini-2.5-pro
+  input_path: problem_set/PHYSICS/test.jsonl
+  output_path: test_results/PHYSICS/zero-shot_CoT/Gemini-2.5-pro/results.jsonl
+  scheme: single-llm
+  temperature: 0.0
+  models:
+    generator: gemini-2.5-pro
+  single_llm_options:
+    zero_shot_cot: true
+  tools: []
+global_settings:
+  concurrent_limit: 10
+  aux_dir_base: .aux

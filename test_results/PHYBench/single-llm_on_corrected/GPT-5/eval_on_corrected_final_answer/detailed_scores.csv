@@ -1,0 +1,346 @@
+id,llm_solution_score,llm_solution_v1_score,reference_answer,llm_solution_answer,llm_solution_v1_answer
+285,100,100,F_{\max} = 5m\omega^2R,"F_{\max} = 5\,m\,\omega^{2}\,R","F_{\max} = 5\,m\,\omega^{2}\,R"
+321,100,100,\varphi = 2\pi \sqrt{\frac{1 + \frac{r}{\lambda}}{1 + \frac{r}{\lambda} - \frac{r^2}{\lambda^2}}},"\Delta\phi(r) \;=\; 2\pi \,\sqrt{\dfrac{1 + \dfrac{r}{\lambda}}{\,1 + \dfrac{r}{\lambda} - \left(\dfrac{r}{\lambda}\right)^2\,}} \, , \quad \text{valid for } \dfrac{r}{\lambda} < \frac{1+\sqrt{5}}{2}","\Delta\phi(r) \;=\; 2\pi \,\sqrt{\dfrac{1 + \dfrac{r}{\lambda}}{\,1 + \dfrac{r}{\lambda} - \left(\dfrac{r}{\lambda}\right)^2\,}} \, , \quad \text{valid for } \dfrac{r}{\lambda} < \frac{1+\sqrt{5}}{2}"
+41,100,100,R\left(\frac{1}{\sqrt{k_2(1+k_1)-k_1}}-1\right),"\,h \;=\; R\left(\frac{1}{\sqrt{k_{2}(1+k_{1})-k_{1}}}\;-\;1\right)\,","\,h \;=\; R\left(\frac{1}{\sqrt{k_{2}(1+k_{1})-k_{1}}}\;-\;1\right)\,"
+281,100,100,\sqrt{\frac{2\sigma}{\rho g}(1-\sin \theta)},"\,h \;=\; \sqrt{\frac{2\sigma}{\rho g}}\;\sqrt{1-\sin\theta}\,","\,h \;=\; \sqrt{\frac{2\sigma}{\rho g}}\;\sqrt{1-\sin\theta}\,"
+630,100,100,P_0 \frac{(1+\alpha)(5+10\alpha+2\alpha \frac{\lambda}{R T_0})}{5+8\alpha},"P_{1}
+=
+P_{0}\,(1+\alpha)\left[1+\frac{\alpha\left(1+\dfrac{\lambda}{R T_{0}}\right)}{2.5+4\alpha}\right]
+=
+P_{0}\,(1+\alpha)\,\frac{\dfrac{5}{2}+5\alpha+\alpha\,\dfrac{\lambda}{R T_{0}}}{\dfrac{5}{2}+4\alpha}","P_{1}
+=
+P_{0}\,(1+\alpha)\left[1+\frac{\alpha\left(1+\dfrac{\lambda}{R T_{0}}\right)}{2.5+4\alpha}\right]
+=
+P_{0}\,(1+\alpha)\,\frac{\dfrac{5}{2}+5\alpha+\alpha\,\dfrac{\lambda}{R T_{0}}}{\dfrac{5}{2}+4\alpha}"
+134,100,100,\frac{v_1 v_2}{L},\displaystyle \frac{v_{1} v_{2}}{L},\displaystyle \frac{v_{1} v_{2}}{L}
+133,100,100,\frac{v^3}{R |v_x|},"\;|a|=\dfrac{v^{3}}{R\,|v_{x}|}\;","\;|a|=\dfrac{v^{3}}{R\,|v_{x}|}\;"
+702,100,100,\sqrt{\frac{2q\lambda}{\pi\varepsilon_0 a^2 m}},"\;\Omega_{\min} \;=\; \sqrt{\dfrac{2\,q\,\lambda}{\pi\,\varepsilon_0\,m\,a^{2}}}\;","\;\Omega_{\min} \;=\; \sqrt{\dfrac{2\,q\,\lambda}{\pi\,\varepsilon_0\,m\,a^{2}}}\;"
+367,100,100,T = \frac{2\pi}{\omega} = 2\pi \sqrt{\frac{4\pi \epsilon_0 m a^3 b^2}{Qq (a^2 - b^2)}},"T \;=\; 2\pi \,\sqrt{\dfrac{4\pi\,\epsilon_0\, m\, b^{2}\, a^{3}}{\,q\,Q\,\left(a^{2}-b^{2}\right)}}","T \;=\; 2\pi \,\sqrt{\dfrac{4\pi\,\epsilon_0\, m\, b^{2}\, a^{3}}{\,q\,Q\,\left(a^{2}-b^{2}\right)}}"
+432,100,100,$$ h={\sqrt{\frac{-Q^{2}+{\sqrt{Q^{4}+{\frac{96\pi\varepsilon_{0}^{2}m g\mu_{0}Q^{2}R^{4}\omega^{2}}{25}}}}}{32\pi\varepsilon_{0}m g}}} $$,"h \;=\; \left\{
+\frac{ -\dfrac{Q^{2}}{16\pi\epsilon_{0}}
+\;+\;
+\sqrt{\;\dfrac{Q^{4}}{256\pi^{2}\epsilon_{0}^{2}}
+\;+\;
+\dfrac{3\,\mu_{0}\,m g\,Q^{2}\,\omega^{2}\,R^{4}}{200\,\pi}\;}
+}
+{2\,m g}
+\right\}^{\!1/2}","h \;=\; \left\{
+\frac{ -\dfrac{Q^{2}}{16\pi\epsilon_{0}}
+\;+\;
+\sqrt{\;\dfrac{Q^{4}}{256\pi^{2}\epsilon_{0}^{2}}
+\;+\;
+\dfrac{3\,\mu_{0}\,m g\,Q^{2}\,\omega^{2}\,R^{4}}{200\,\pi}\;}
+}
+{2\,m g}
+\right\}^{\!1/2}"
+124,100,100,T=2\pi\sqrt{\frac{m(M+m\sin^2\theta)}{k(M+m)}},"T = 2\pi \sqrt{\frac{m\,(M + m \sin^2\theta)}{k\,(M + m)}}","T = 2\pi \sqrt{\frac{m\,(M + m \sin^2\theta)}{k\,(M + m)}}"
+458,100,100,$ Q = \frac{\sqrt{3} a^4 \Delta p}{320\eta l} $,"\,Q \;=\; \frac{\sqrt{3}}{320}\,\frac{a^{4}}{\eta}\,\frac{\Delta p}{\,l\,}\,","\,Q \;=\; \frac{\sqrt{3}}{320}\,\frac{a^{4}}{\eta}\,\frac{\Delta p}{\,l\,}\,"
+103,100,100,R_{04} = (3 - \sqrt{3})R,"R_{04} = (3 - \sqrt{3})\,R","R_{04} = (3 - \sqrt{3})\,R"
+310,100,100,\frac{\left(\sqrt{\frac{1+\beta_0}{1-\beta_0}}+\frac{2E}{mc^2}\right)^2 - 1}{\left(\sqrt{\frac{1+\beta_0}{1-\beta_0}}+\frac{2E}{mc^2}\right)^2 + 1},"\,\beta_{1} \;=\; \frac{\Big[\gamma_{0}(1+\beta_{0})+\dfrac{2E}{m c^{2}}\Big]^{2}-1}{\Big[\gamma_{0}(1+\beta_{0})+\dfrac{2E}{m c^{2}}\Big]^{2}+1}\,=\,\frac{\left[\sqrt{\dfrac{1+\beta_{0}}{1-\beta_{0}}}+\dfrac{2E}{m c^{2}}\right]^{2}-1}{\left[\sqrt{\dfrac{1+\beta_{0}}{1-\beta_{0}}}+\dfrac{2E}{m c^{2}}\right]^{2}+1}\,","\,\beta_{1} \;=\; \frac{\Big[\gamma_{0}(1+\beta_{0})+\dfrac{2E}{m c^{2}}\Big]^{2}-1}{\Big[\gamma_{0}(1+\beta_{0})+\dfrac{2E}{m c^{2}}\Big]^{2}+1}\,=\,\frac{\left[\sqrt{\dfrac{1+\beta_{0}}{1-\beta_{0}}}+\dfrac{2E}{m c^{2}}\right]^{2}-1}{\left[\sqrt{\dfrac{1+\beta_{0}}{1-\beta_{0}}}+\dfrac{2E}{m c^{2}}\right]^{2}+1}\,"
+110,100,100,\alpha = \arctan\left(\frac{\sqrt{c^4 - d^2(a^2 - c^2)}}{ad}\right),"\displaystyle \alpha \;=\; \arctan\!\left(\frac{\sqrt{\,c^{4}+c^{2}d^{2}-a^{2}d^{2}\,}}{a\,d}\right)","\displaystyle \alpha \;=\; \arctan\!\left(\frac{\sqrt{\,c^{4}+c^{2}d^{2}-a^{2}d^{2}\,}}{a\,d}\right)"
+256,100,100,E_1 = \frac{\sqrt{3}}{8}Mc^2,"\,\alpha_{c}=2\,\hbar c\,,\qquad E_{1}^{\text{(min)}}=\frac{\sqrt{3}}{8}\,M c^{2}\,","\,\alpha_{c}=2\,\hbar c\,,\qquad E_{1}^{\text{(min)}}=\frac{\sqrt{3}}{8}\,M c^{2}\,"
+112,100,100,Q_{tot} = \frac{6 \pi \varepsilon_0}{\varepsilon_r + 2} R^3 E_0^2,"\,Q_{\text{total}} \;=\; \frac{6\,\pi\,\varepsilon_0\,R^3\,E_0^2}{\varepsilon_r + 2}\,","\,Q_{\text{total}} \;=\; \frac{6\,\pi\,\varepsilon_0\,R^3\,E_0^2}{\varepsilon_r + 2}\,"
+498,100,100,\varphi = \frac{2\pi d}{\lambda (n_b - n_a)} \left[ n_b\sqrt{n_b^2 - \sin^2 i} - n_a\sqrt{n_a^2 - \sin^2 i} - \sin^2 i \ln \left( \frac{n_b + \sqrt{n_b^2 - \sin^2 i}}{n_a + \sqrt{n_a^2 - \sin^2 i}} \right) \right],"\varphi \;=\; \frac{2\pi d}{\lambda\,(n_b - n_a)}\left[\, n_b\sqrt{n_b^{2}-\sin^{2} i}\;-\;n_a\sqrt{n_a^{2}-\sin^{2} i}\;-\;\sin^{2} i\;\ln\!\left(\frac{n_b+\sqrt{n_b^{2}-\sin^{2} i}}{\,n_a+\sqrt{n_a^{2}-\sin^{2} i}\,}\right)\right]","\varphi \;=\; \frac{2\pi d}{\lambda\,(n_b - n_a)}\left[\, n_b\sqrt{n_b^{2}-\sin^{2} i}\;-\;n_a\sqrt{n_a^{2}-\sin^{2} i}\;-\;\sin^{2} i\;\ln\!\left(\frac{n_b+\sqrt{n_b^{2}-\sin^{2} i}}{\,n_a+\sqrt{n_a^{2}-\sin^{2} i}\,}\right)\right]"
+737,100,100,\frac{2\pi}{\sqrt{n+1}} \frac{m}{q B_0},"\,T \;=\; \frac{2\pi}{\sqrt{n+1}}\;\frac{m}{|q|\,B_0}\,","\,T \;=\; \frac{2\pi}{\sqrt{n+1}}\;\frac{m}{|q|\,B_0}\,"
+420,100,100,\theta=\theta_{0}(\frac{x_{0}}{x})^{3/4},\Theta(x)=\theta_{0}\left(\frac{x_{0}}{x}\right)^{3/4},\Theta(x)=\theta_{0}\left(\frac{x_{0}}{x}\right)^{3/4}
+118,100,100,R_{BC} = \frac{38}{41}r,"\dfrac{38}{41}\,r","\dfrac{38}{41}\,r"
+131,100,100,m' = \frac{R^3}{a^3} m,"\,|m'| \;=\; m\,\left(\dfrac{R}{a}\right)^{3}\,","\,|m'| \;=\; m\,\left(\dfrac{R}{a}\right)^{3}\,"
+423,100,100,$$ S_{D}-S_{A}=\frac{3p_Av_A}{T_A}\left(\left(\frac{p_Dv_D^2}{p_Av_A^2}\right)^{\frac{1}{3}}-1\right) $$,"\,S_D - S_A \;=\; 3\left(\frac{p_D v_D}{T_D} - \frac{p_A v_A}{T_A}\right)
+\;=\; \frac{3}{T_A}\!\left[\,p_A^{2/3} v_A^{1/3}\, p_D^{1/3} v_D^{2/3} \;-\; p_A v_A\,\right]\,","\,S_D - S_A \;=\; 3\left(\frac{p_D v_D}{T_D} - \frac{p_A v_A}{T_A}\right)
+\;=\; \frac{3}{T_A}\!\left[\,p_A^{2/3} v_A^{1/3}\, p_D^{1/3} v_D^{2/3} \;-\; p_A v_A\,\right]\,"
+333,100,100,\beta = \frac{2M}{mR^2 + 4\mu_0 P_0^2 \pi L \left(\frac{3}{8k^4} + \left(\frac{R^3}{2k} - \frac{3R^2}{4k^2} + \frac{3R}{4k^3} - \frac{3}{8k^4}\right)e^{2kR}\right)},"\beta \;=\; \frac{M}{\dfrac{1}{2}\,m R^{2} \;+\; 2\pi \mu_{0} P_{0}^{2} L \left[
+e^{2 k R}\!\left(\frac{R^{3}}{2k} - \frac{3 R^{2}}{4 k^{2}} + \frac{3 R}{4 k^{3}} - \frac{3}{8 k^{4}}\right) + \frac{3}{8 k^{4}}
+\right]}","\beta \;=\; \frac{M}{\dfrac{1}{2}\,m R^{2} \;+\; 2\pi \mu_{0} P_{0}^{2} L \left[
+e^{2 k R}\!\left(\frac{R^{3}}{2k} - \frac{3 R^{2}}{4 k^{2}} + \frac{3 R}{4 k^{3}} - \frac{3}{8 k^{4}}\right) + \frac{3}{8 k^{4}}
+\right]}"
+670,100,100,\lambda_D = \sqrt{\frac{k T \varepsilon_0}{2 e^2 n_0}},"\lambda_D \;=\; \sqrt{\frac{\varepsilon_0\,kT}{2\,n_0\,e^2}}","\lambda_D \;=\; \sqrt{\frac{\varepsilon_0\,kT}{2\,n_0\,e^2}}"
+140,100,100,\frac{\sqrt{6}}{18}P,T = \frac{P}{3\sqrt{6}},T = \frac{P}{3\sqrt{6}}
+653,100,100,\sqrt{2g \alpha+\frac{\pi^2 B^2 r^4}{m L}},"\,v_{0,\min} = \sqrt{\,2 g \alpha \;+\; \dfrac{\pi^{2} B^{2} r^{4}}{m L}\,}\,","\,v_{0,\min} = \sqrt{\,2 g \alpha \;+\; \dfrac{\pi^{2} B^{2} r^{4}}{m L}\,}\,"
+719,100,100,T(h) = \frac{\mu G M_m}{n R (R_m + h)},"\,T(h)\;=\;\frac{\mu\,G\,M_{m}}{n\,R\,\bigl(R_{m}+h\bigr)}\,","\,T(h)\;=\;\frac{\mu\,G\,M_{m}}{n\,R\,\bigl(R_{m}+h\bigr)}\,"
+211,100,100,\frac{a_A}{1+\frac{a_A L_0}{c^2}},"\,a_{B} \;=\; \frac{a_{A}}{\,1 + \dfrac{a_{A} L_{0}}{c^{2}}\,}\,","\,a_{B} \;=\; \frac{a_{A}}{\,1 + \dfrac{a_{A} L_{0}}{c^{2}}\,}\,"
+106,100,100,|\vec{v}| = \sqrt{3 g l \sin \theta_0},"\,v=\sqrt{3\,g\,l\,\sin\theta_{0}}\,","\,v=\sqrt{3\,g\,l\,\sin\theta_{0}}\,"
+58,100,100,\left(2-\frac{R_2}{R_1}\right)R_2,"R_{\text{eq}} = \dfrac{R_{2}\,\bigl(2 R_{1} - R_{2}\bigr)}{R_{1}}","R_{\text{eq}} = \dfrac{R_{2}\,\bigl(2 R_{1} - R_{2}\bigr)}{R_{1}}"
+42,100,100,n_0 a \sqrt{\frac{a^2 q^2}{r^4} - \frac{q^2 - 1}{r^2}},"\,n(r)\;=\;n_{0}\,\sqrt{\,q^{2}\left(\frac{a}{r}\right)^{4}+\left(1-q^{2}\right)\left(\frac{a}{r}\right)^{2}\,}\quad\text{for}\;0<r<a\,","\,n(r)\;=\;n_{0}\,\sqrt{\,q^{2}\left(\frac{a}{r}\right)^{4}+\left(1-q^{2}\right)\left(\frac{a}{r}\right)^{2}\,}\quad\text{for}\;0<r<a\,"
+244,100,100,\gamma = \frac{7}{4},\gamma = \frac{7}{4},\gamma = \frac{7}{4}
+648,57.72727272727273,57.72727272727273,\sqrt{\frac{2kQq}{mR} \cdot \frac{1-\cos\left(\frac{\pi}{n}\right)}{2\cos\left(\frac{\pi}{n}\right)-1}},"v_{\min}(n)
+=
+\sqrt{\frac{k_e\,qQ}{mR}\;\frac{2\bigl(1-\cos(\pi/n)\bigr)}{\,2\cos(\pi/n)-1\,}}
+\quad\text{for }n\ge 4,","v_{\min}(n)
+=
+\sqrt{\frac{k_e\,qQ}{mR}\;\frac{2\bigl(1-\cos(\pi/n)\bigr)}{\,2\cos(\pi/n)-1\,}}
+\quad\text{for }n\ge 4,"
+284,55.65217391304348,55.65217391304348,\varphi=|2\arctan\left(\frac{\sqrt{\sin^2\theta-\left(1+\frac{\delta n}{n}\right)^2}}{\cos\theta}\right)|,"\,|\varphi| \;=\; 2\,\arctan\!\left(\frac{\sqrt{\sin^{2}\theta-\left(\dfrac{n_{2}}{n_{1}}\right)^{2}}}{\cos\theta}\right)
+\;=\; 2\,\arctan\!\left(\frac{\sqrt{\sin^{2}\theta-\left(\dfrac{n+\delta n}{\,n\,}\right)^{2}}}{\cos\theta}\right)\,","\,|\varphi| \;=\; 2\,\arctan\!\left(\frac{\sqrt{\sin^{2}\theta-\left(\dfrac{n_{2}}{n_{1}}\right)^{2}}}{\cos\theta}\right)
+\;=\; 2\,\arctan\!\left(\frac{\sqrt{\sin^{2}\theta-\left(\dfrac{n+\delta n}{\,n\,}\right)^{2}}}{\cos\theta}\right)\,"
+100,55.0,55.0,\sqrt{\frac{2m g^2 l}{E a h^3}},"\,\omega \;=\; g\,\sqrt{\frac{m l}{4 E I}}\;=\; g\,\sqrt{\frac{3 m l}{E\,a\,h^3}}\,","\,\omega \;=\; g\,\sqrt{\frac{m l}{4 E I}}\;=\; g\,\sqrt{\frac{3 m l}{E\,a\,h^3}}\,"
+457,53.22033898305085,53.22033898305085,\omega = \left|14\cos^2\left(\frac{\pi}{N}\right) - 5\right| \sqrt{\frac{F}{ml\sin\left(\frac{\pi}{N}\right) \left(7 + 2\cos^2\left(\frac{\pi}{N}\right)\right)\left(1 + 8\cos^2\left(\frac{\pi}{N}\right)\right)}},"\omega_* \;=\; \sqrt{ \frac{F}{m\,l}\;\frac{\bigl(14\cos^2(\pi/N)-5\bigr)^2}{\sin(\pi/N)\,\bigl(7+2\cos^2(\pi/N)\bigr)\,\bigl(1+8\cos^2(\pi/N)\bigr)} }","\omega_* \;=\; \sqrt{ \frac{F}{m\,l}\;\frac{\bigl(14\cos^2(\pi/N)-5\bigr)^2}{\sin(\pi/N)\,\bigl(7+2\cos^2(\pi/N)\bigr)\,\bigl(1+8\cos^2(\pi/N)\bigr)} }"
+708,51.30434782608695,51.30434782608695,x = \sqrt{\frac{2m}{k T}} \cdot \frac{L c \lambda_2}{2\pi d},"y_{\mathrm{blur}} \;=\; \frac{L}{d}\,\Delta_e
+\;=\; \frac{L}{d}\,\frac{c\,\lambda_0}{\sqrt{2}\,\pi}\,\sqrt{\frac{m}{k_B T}}","y_{\mathrm{blur}} \;=\; \frac{L}{d}\,\Delta_e
+\;=\; \frac{L}{d}\,\frac{c\,\lambda_0}{\sqrt{2}\,\pi}\,\sqrt{\frac{m}{k_B T}}"
+716,50.0,50.0,\omega_B = 4 \sqrt{\frac{13 k q Q}{23 m L^3}},"\omega \;=\; \sqrt{\dfrac{26\,k\,q\,Q}{m\,L^{3}}}","\omega \;=\; \sqrt{\dfrac{26\,k\,q\,Q}{m\,L^{3}}}"
+83,43.33333333333333,43.33333333333333,|M| = \frac{27}{31} m B_0 \sin \alpha,"\tau \;=\; 9\, m\, B_0 \,\sin\alpha","\tau \;=\; 9\, m\, B_0 \,\sin\alpha"
+65,36.19047619047619,36.19047619047619,"\Delta 
+\vec{v} = \vec{v_{0}} \left(e^{-\frac{5\pi R B^2}{14m\lambda} t}-1\right)","\,v(t)=v_{0}\exp\!\left(-\frac{5\pi B^{2}R}{14\,m\,\lambda}\,t\right),\quad \text{with } \tau=\frac{14\,m\,\lambda}{5\pi B^{2}R}\,","\,v(t)=v_{0}\exp\!\left(-\frac{5\pi B^{2}R}{14\,m\,\lambda}\,t\right),\quad \text{with } \tau=\frac{14\,m\,\lambda}{5\pi B^{2}R}\,"
+45,33.33333333333333,33.33333333333333,\sqrt{\frac{\gamma\mu}{\mu\rho - b\rho^2}\left(p + \frac{a}{\mu^2}\rho^2\right) - \frac{2a\rho}{\mu^2}},"\,c^{2}=\left(\frac{\partial p}{\partial \rho}\right)_{s}
+=\ \gamma\,\frac{p+\dfrac{a\rho^{2}}{\mu^{2}}}{\rho\left(1-\dfrac{b\rho}{\mu}\right)}\ -\ \frac{2a\rho}{\mu^{2}}\,","\,c^{2}=\left(\frac{\partial p}{\partial \rho}\right)_{s}
+=\ \gamma\,\frac{p+\dfrac{a\rho^{2}}{\mu^{2}}}{\rho\left(1-\dfrac{b\rho}{\mu}\right)}\ -\ \frac{2a\rho}{\mu^{2}}\,"
+259,24.705882352941174,24.705882352941174,\frac{2 v^2 t'^2 (1 - u^2/c^2)^{3/2}}{1 - (uv/c^2)^2},"A'(t') \;=\; \frac{2\,v^2}{\gamma_u^{3}\,\left(1-\dfrac{u^2 v^2}{c^4}\right)}\,t'^2
+\quad\text{with}\quad
+\gamma_u=\frac{1}{\sqrt{1-\dfrac{u^2}{c^2}}}","A'(t') \;=\; \frac{2\,v^2}{\gamma_u^{3}\,\left(1-\dfrac{u^2 v^2}{c^4}\right)}\,t'^2
+\quad\text{with}\quad
+\gamma_u=\frac{1}{\sqrt{1-\dfrac{u^2}{c^2}}}"
+674,23.636363636363633,23.636363636363633,\frac{3\sqrt{5}}{5}\sqrt{gr},"\,v_{0,\min} \;=\; \sqrt{\frac{4\sqrt{3}}{5}\; g r}\,","\,v_{0,\min} \;=\; \sqrt{\frac{4\sqrt{3}}{5}\; g r}\,"
+115,21.315789473684212,21.315789473684212,P'=\frac{n q^2 c}{6 \varepsilon_0 \sqrt{1-\beta^2}} \left[\frac{\omega^2 R^2 / c^2}{1-\omega^2 R^2 / c^2}+\ln\left(1-\frac{\omega^2 R^2}{c^2}\right)\right],"\frac{P'}{L'} \;=\; \frac{n' q^2 c}{6\,\varepsilon_0}\,\Bigg[
+\frac{1}{1 - \left(\frac{\omega R}{c}\right)^2} \;+\; \ln\!\Big(1 - \left(\frac{\omega R}{c}\right)^2\Big) \;-\; 1
+\Bigg]
+\;=\; \frac{\gamma_\beta n\, q^2 c}{6\,\varepsilon_0}\,\Bigg[
+\frac{1}{1 - \left(\frac{\omega R}{c}\right)^2} \;+\; \ln\!\Big(1 - \left(\frac{\omega R}{c}\right)^2\Big) \;-\; 1
+\Bigg]","\frac{P'}{L'} \;=\; \frac{n' q^2 c}{6\,\varepsilon_0}\,\Bigg[
+\frac{1}{1 - \left(\frac{\omega R}{c}\right)^2} \;+\; \ln\!\Big(1 - \left(\frac{\omega R}{c}\right)^2\Big) \;-\; 1
+\Bigg]
+\;=\; \frac{\gamma_\beta n\, q^2 c}{6\,\varepsilon_0}\,\Bigg[
+\frac{1}{1 - \left(\frac{\omega R}{c}\right)^2} \;+\; \ln\!\Big(1 - \left(\frac{\omega R}{c}\right)^2\Big) \;-\; 1
+\Bigg]"
+336,20.000000000000007,20.000000000000007,f=\frac{1}{2\pi}\sqrt{\frac{4g(b+R-\frac{b^2R}{a^2})}{(a^2+5b^2)\left(\frac{bR}{a^2}-1\right)}},"f \;=\; \frac{1}{2\pi}\,\sqrt{\frac{g}{(R-b)\left(1+\dfrac{a^{2}+b^{2}}{4b^{2}}\right)}} \;=\; \frac{1}{2\pi}\,\sqrt{\frac{4b^{2}g}{(R-b)\bigl(a^{2}+5b^{2}\bigr)}}","f \;=\; \frac{1}{2\pi}\,\sqrt{\frac{g}{(R-b)\left(1+\dfrac{a^{2}+b^{2}}{4b^{2}}\right)}} \;=\; \frac{1}{2\pi}\,\sqrt{\frac{4b^{2}g}{(R-b)\bigl(a^{2}+5b^{2}\bigr)}}"
+88,15.600000000000001,15.600000000000001,w=\frac{\lambda N_0 E_0}{4\pi} \frac{\left(1 - \frac{v^2}{c^2}\right)^2}{\left(1 - \frac{v}{c}\cos\theta\right)^3} e^{-\lambda t \sqrt{1-\frac{v^2}{c^2}}},"\,w(\theta,t)\;=\;\frac{N_0\,\lambda\,E_0\,e^{-\lambda t/\gamma}}{4\pi\,\gamma^{4}\,\bigl(1-\tfrac{v}{c}\cos\theta\bigr)^{3}}\,,\quad \gamma=\frac{1}{\sqrt{1-(v/c)^2}}\,","\,w(\theta,t)\;=\;\frac{N_0\,\lambda\,E_0\,e^{-\lambda t/\gamma}}{4\pi\,\gamma^{4}\,\bigl(1-\tfrac{v}{c}\cos\theta\bigr)^{3}}\,,\quad \gamma=\frac{1}{\sqrt{1-(v/c)^2}}\,"
+331,12.5,12.5,\Delta y = \frac{1 + \tan^2(2\phi)}{\sin\phi} \frac{\lambda L}{d},"\Delta y \;=\; \dfrac{L\,\lambda}{d}\,\sin\phi","\Delta y \;=\; \dfrac{L\,\lambda}{d}\,\sin\phi"
+654,10.697674418604649,10.697674418604649,\frac{2nSmc(v_{1}-v_{2})^{2}}{(1-\left(\frac{v_1}{c}\right)^2)\sqrt{1-\left(\frac{v_2}{c}\right)^2}h u_{0}},"\,N' \;=\; \frac{2\,m\,n\,S\,c^3}{h\,u_0}\;\gamma_1^2\,\gamma_2\,(\beta_1-\beta_2)^2
+\;=\; \frac{2\,m\,n\,S\,c}{h\,u_0}\;\gamma_1^2\,\gamma_2\,(v_1 - v_2)^2\,,\quad \gamma_i=\frac{1}{\sqrt{1-v_i^2/c^2}},\;\beta_i=\frac{v_i}{c}\,","\,N' \;=\; \frac{2\,m\,n\,S\,c^3}{h\,u_0}\;\gamma_1^2\,\gamma_2\,(\beta_1-\beta_2)^2
+\;=\; \frac{2\,m\,n\,S\,c}{h\,u_0}\;\gamma_1^2\,\gamma_2\,(v_1 - v_2)^2\,,\quad \gamma_i=\frac{1}{\sqrt{1-v_i^2/c^2}},\;\beta_i=\frac{v_i}{c}\,"
+478,10.0,10.0,$$ F=\frac{1}{\varepsilon_{r}}QE_{0} $$,"F = |Q|\,E_{0}","F = |Q|\,E_{0}"
+766,7.368421052631582,7.368421052631582,T = \frac{5 + \cos^2 \theta}{(1 + \cos^2 \theta)^2} m g \sin \theta,"\,T(\theta)=\dfrac{m g\,\sin\theta\;\bigl(6-\sin^{2}\theta\bigr)}{\bigl(2-\sin^{2}\theta\bigr)^{2}}\,","\,T(\theta)=\dfrac{m g\,\sin\theta\;\bigl(6-\sin^{2}\theta\bigr)}{\bigl(2-\sin^{2}\theta\bigr)^{2}}\,"
+121,5.454545454545453,5.454545454545453,u = \frac{c|\gamma_1 - \gamma_2|}{\sqrt{\gamma_1^2 + \gamma_2^2 - 2 - \frac{2}{c^2}\gamma_1\gamma_2 v_1 v_2 \cos\alpha}},"\,u_{\min}
+= c\,\frac{|\gamma_{2}-\gamma_{1}|}
+{\sqrt{\,\gamma_{1}^{2}+\gamma_{2}^{2}-2-2\sqrt{(\gamma_{1}^{2}-1)(\gamma_{2}^{2}-1)}\,\cos\alpha\,}}\,","\,u_{\min}
+= c\,\frac{|\gamma_{2}-\gamma_{1}|}
+{\sqrt{\,\gamma_{1}^{2}+\gamma_{2}^{2}-2-2\sqrt{(\gamma_{1}^{2}-1)(\gamma_{2}^{2}-1)}\,\cos\alpha\,}}\,"
+603,3.75,3.75,\varepsilon = 1 - \frac{ne^2}{\varepsilon_0 m \omega^2},"\,\varepsilon(\omega) = \varepsilon_0\!\left(1 - \frac{\omega_p^{2}}{\omega^{2}}\right), \quad \text{with } \omega_p^2 = \frac{n e^2}{\varepsilon_0 m}\,","\,\varepsilon(\omega) = \varepsilon_0\!\left(1 - \frac{\omega_p^{2}}{\omega^{2}}\right), \quad \text{with } \omega_p^2 = \frac{n e^2}{\varepsilon_0 m}\,"
+493,3.6000000000000085,3.6000000000000085,T_{1}= 2\pi\sqrt{\frac{2M(h^{2}+R^{2})^{7/2}}{\mu_{0}mI(2h^{4}+2R^{4}-11R^{2}h^{2})}},"\,T_{1} \;=\; 2\pi\,\sqrt{\dfrac{M\,h^{3}}{\mu_{0}\,I\,m}}\,","\,T_{1} \;=\; 2\pi\,\sqrt{\dfrac{M\,h^{3}}{\mu_{0}\,I\,m}}\,"
+450,2.9032258064516157,2.9032258064516157,\beta = \frac{2Ag\sqrt{A^2-B^2}}{2A^3 + B^3} \left[ 1 + \frac{4A^3(A+\sqrt{A^2-B^2}-B)}{B(2A^3 + B^3)} \right],"\displaystyle \beta \;=\; -\,\frac{2\,g\,e}{A\left[\,2+\left(1-e^{2}\right)^{3/2}\right]}
+\;=\; -\,\frac{g\,e\,A}{A^{2}+\dfrac{B^{3}}{2A}}
+\;=\; -\,\frac{2\,g\,e\,A^{2}}{2A^{3}+B^{3}}","\displaystyle \beta \;=\; -\,\frac{2\,g\,e}{A\left[\,2+\left(1-e^{2}\right)^{3/2}\right]}
+\;=\; -\,\frac{g\,e\,A}{A^{2}+\dfrac{B^{3}}{2A}}
+\;=\; -\,\frac{2\,g\,e\,A^{2}}{2A^{3}+B^{3}}"
+139,0.9090909090909065,0.9090909090909065,\varphi = \arctan \frac{P_2 - P_1 \cos(2\beta)}{P_1 \sin(2\beta)},"\tan \varphi \;=\; \dfrac{P_{2} - P_{1}\cos 2\beta}{P_{1}\,\sin 2\beta} \quad\text{with}\quad \cos\beta=\dfrac{r}{R-r}","\tan \varphi \;=\; \dfrac{P_{2} - P_{1}\cos 2\beta}{P_{1}\,\sin 2\beta} \quad\text{with}\quad \cos\beta=\dfrac{r}{R-r}"
+495,0,0,v = \frac{NZ e^3}{2c\varepsilon_0 m^2 n} \cdot \frac{\omega^2}{(\omega_0^2 - \omega^2)^2},"\,V(\omega)\equiv\frac{\beta}{B\,d}\;=\;-\;\frac{e}{2 m c}\,\omega\,\frac{d n}{d\omega}\;=\;\frac{e}{2 m c}\,\lambda\,\frac{d n}{d\lambda}\;=\;-\;\frac{N Z e^{3}}{2\,\varepsilon_{0}\,m^{2}\,c}\,\frac{\omega^{2}}{n\,(\omega_{0}^{2}-\omega^{2})^{2}}\;,\;\text{(sign set by rotation convention)}\,","\,V(\omega)\equiv\frac{\beta}{B\,d}\;=\;-\;\frac{e}{2 m c}\,\omega\,\frac{d n}{d\omega}\;=\;\frac{e}{2 m c}\,\lambda\,\frac{d n}{d\lambda}\;=\;-\;\frac{N Z e^{3}}{2\,\varepsilon_{0}\,m^{2}\,c}\,\frac{\omega^{2}}{n\,(\omega_{0}^{2}-\omega^{2})^{2}}\;,\;\text{(sign set by rotation convention)}\,"
+600,0,0,\gamma = \frac{2}{5},"V \;=\; \frac{2\cos^{2}\theta}{1+\cos^{2}\theta}\;,\;\; \text{so at } \theta=60^\circ:\; V=\frac{2}{5}=0.4","V \;=\; \frac{2\cos^{2}\theta}{1+\cos^{2}\theta}\;,\;\; \text{so at } \theta=60^\circ:\; V=\frac{2}{5}=0.4"
+54,0,0,T_2 = 2mg + 4m \frac{v_0^2}{l},"T_{\text{middle}} = 2\,m g","T_{\text{middle}} = 2\,m g"
+10,0,0,\frac{|q|b}{2\pi\varepsilon_0} \left[ \frac{1}{\left((x-a)^2 + b^2 + (z-c)^2\right)^{3/2}} - \frac{1}{\left((x+a)^2 + b^2 + (z-c)^2\right)^{3/2}} \right],"E(x,0^{+},z)
+=
+\frac{q\,b}{2\pi\varepsilon_{0}}
+\left[
+\frac{1}{\big((x-a)^{2}+(z-c)^{2}+b^{2}\big)^{3/2}}
+-
+\frac{1}{\big((x+a)^{2}+(z-c)^{2}+b^{2}\big)^{3/2}}
+\right]
+\quad (x>0)","E(x,0^{+},z)
+=
+\frac{q\,b}{2\pi\varepsilon_{0}}
+\left[
+\frac{1}{\big((x-a)^{2}+(z-c)^{2}+b^{2}\big)^{3/2}}
+-
+\frac{1}{\big((x+a)^{2}+(z-c)^{2}+b^{2}\big)^{3/2}}
+\right]
+\quad (x>0)"
+33,0,0,p(\theta) = (\sigma T_2^4 - \sigma T_1^4) \frac{r(R - b \cos \theta)}{R^2 + b^2 - 2Rb \cos \theta},"p(\theta)
+=
+\sigma\,T_{1}^{4}\;
+\frac{\,r\,\sqrt{\bigl(R^{2}+b^{2}-r^{2}\bigr)^{2}-4\,b^{2}R^{2}}\,}
+{\,R\left(R^{2}+b^{2}-r^{2}+2\,b\,R\cos\theta\right)}
+\quad\text{(absorbed from the inner source)}","p(\theta)
+=
+\sigma\,T_{1}^{4}\;
+\frac{\,r\,\sqrt{\bigl(R^{2}+b^{2}-r^{2}\bigr)^{2}-4\,b^{2}R^{2}}\,}
+{\,R\left(R^{2}+b^{2}-r^{2}+2\,b\,R\cos\theta\right)}
+\quad\text{(absorbed from the inner source)}"
+453,0,0,$$ \alpha=\frac{N}{6\pi n\epsilon_0^2c^4}\frac{(\frac{\omega^2 e^2}{m})^2}{(\omega_0^2-\omega^2)^2+\gamma^2 \omega^2} $$,"\alpha(\omega) \;=\; \frac{N\, e^{2}\, \gamma\, \omega^{2}}{m\, n\, \varepsilon_{0}\, c \,\big[\,(\omega_{0}^{2}-\omega^{2})^{2} + \gamma^{2}\omega^{2}\,\big]}","\alpha(\omega) \;=\; \frac{N\, e^{2}\, \gamma\, \omega^{2}}{m\, n\, \varepsilon_{0}\, c \,\big[\,(\omega_{0}^{2}-\omega^{2})^{2} + \gamma^{2}\omega^{2}\,\big]}"
+95,0,0,x=-\frac{7F,"\,x(t)\;=\;\frac{F}{M\,\Omega^{2}}\left[\frac{5}{247}\cos\!\big(\sqrt{19}\,\Omega\,t\big)\;+\;\frac{4}{39}\cos\!\big(\sqrt{6}\,\Omega\,t\big)\;-\;\frac{7}{57}\right]\,","\,x(t)\;=\;\frac{F}{M\,\Omega^{2}}\left[\frac{5}{247}\cos\!\big(\sqrt{19}\,\Omega\,t\big)\;+\;\frac{4}{39}\cos\!\big(\sqrt{6}\,\Omega\,t\big)\;-\;\frac{7}{57}\right]\,"
+101,0,0,A = \frac{25 \sqrt{2}}{204} \theta_0,"\,\Phi_0 \;=\; \frac{14}{15}\,\theta_0\,","\,\Phi_0 \;=\; \frac{14}{15}\,\theta_0\,"
+650,0,0,\frac{2}{\pi}\sqrt{\frac{E_0 R}{m g}}\sqrt{(\pi-2)^2\frac{R}{L}+2},"d_{\max} \;=\; 2R \;+\; \min\!\left\{\,2L,\;\left[\dfrac{32\,m g\,R\,L^{4}}{\,\Big(\tfrac{1}{2}+\tfrac{1}{\pi}\Big)\,E_{0}\,}\right]^{\!1/4}\right\}","d_{\max} \;=\; 2R \;+\; \min\!\left\{\,2L,\;\left[\dfrac{32\,m g\,R\,L^{4}}{\,\Big(\tfrac{1}{2}+\tfrac{1}{\pi}\Big)\,E_{0}\,}\right]^{\!1/4}\right\}"
+332,0,0,\mu = \frac{2MR d\sin\beta \sin\varphi}{\cos\beta \left[2MR^2\cos\varphi + m(L\sin\beta)^2(3\cos\varphi-2)\right]},"\,\mu(\varphi)\;=\;\frac{\dfrac{I_s}{2 I_{\text{tot}}}\,\dfrac{L\sin\beta}{R}\,|\sin\varphi|}{\;\cos\varphi\;-\;\dfrac{m(L\sin\beta)^2}{2 I_{\text{tot}}}\,\bigl(1-\cos\varphi\bigr)}\,,\quad I_s=\frac{2}{3}MR^2,\quad I_{\text{tot}}=\frac{2}{3}MR^2+\frac{1}{3}m(L\sin\beta)^2,\quad \cos\beta=\frac{d^2+L^2-R^2}{2dL}\,","\,\mu(\varphi)\;=\;\frac{\dfrac{I_s}{2 I_{\text{tot}}}\,\dfrac{L\sin\beta}{R}\,|\sin\varphi|}{\;\cos\varphi\;-\;\dfrac{m(L\sin\beta)^2}{2 I_{\text{tot}}}\,\bigl(1-\cos\varphi\bigr)}\,,\quad I_s=\frac{2}{3}MR^2,\quad I_{\text{tot}}=\frac{2}{3}MR^2+\frac{1}{3}m(L\sin\beta)^2,\quad \cos\beta=\frac{d^2+L^2-R^2}{2dL}\,"
+250,0,0,i(t) = \frac{U}{r_0 + \frac{2\operatorname{arccosh}(D/R)}{\pi(\sigma_1 + \sigma_2)L}} + \left(\frac{U}{r_0} - \frac{U}{r_0 + \frac{2\operatorname{arccosh}(D/R)}{\pi(\sigma_1 + \sigma_2)L}}\right) \exp\left[ - \left(\frac{\sigma_1 + \sigma_2}{\varepsilon_1 + \varepsilon_2} + \frac{2\operatorname{arccosh}(D/R)}{\pi r_0 (\varepsilon_1 + \varepsilon_2)L}\right) t \right],"\begin{aligned}
+&u_0 \equiv \operatorname{arccosh}\!\left(\frac{D}{R}\right)
+= \ln\!\left(\frac{D}{R} + \sqrt{\left(\frac{D}{R}\right)^2 - 1}\right),\\[4pt]
+&G = \frac{\pi L\,(\sigma_1+\sigma_2)}{2\,u_0},\quad
+C = \frac{\pi L\,(\varepsilon_1+\varepsilon_2)}{2\,u_0},\quad
+R_{\mathrm{cond}}=\frac{1}{G}=\frac{2u_0}{\pi L\,(\sigma_1+\sigma_2)},\\[4pt]
+&\tau = \frac{C}{G + 1/r_0}
+= \frac{\varepsilon_1+\varepsilon_2}{\sigma_1+\sigma_2 + \dfrac{2u_0}{\pi L r_0}},\\[6pt]
+&i(t) \;=\; \frac{U}{r_0 + R_{\mathrm{cond}}}
+\;+\;\Big(\frac{U}{r_0} - \frac{U}{r_0 + R_{\mathrm{cond}}}\Big)\,
+\exp\!\left(-\frac{t}{\tau}\right)\,.
+\end{aligned}","\begin{aligned}
+&u_0 \equiv \operatorname{arccosh}\!\left(\frac{D}{R}\right)
+= \ln\!\left(\frac{D}{R} + \sqrt{\left(\frac{D}{R}\right)^2 - 1}\right),\\[4pt]
+&G = \frac{\pi L\,(\sigma_1+\sigma_2)}{2\,u_0},\quad
+C = \frac{\pi L\,(\varepsilon_1+\varepsilon_2)}{2\,u_0},\quad
+R_{\mathrm{cond}}=\frac{1}{G}=\frac{2u_0}{\pi L\,(\sigma_1+\sigma_2)},\\[4pt]
+&\tau = \frac{C}{G + 1/r_0}
+= \frac{\varepsilon_1+\varepsilon_2}{\sigma_1+\sigma_2 + \dfrac{2u_0}{\pi L r_0}},\\[6pt]
+&i(t) \;=\; \frac{U}{r_0 + R_{\mathrm{cond}}}
+\;+\;\Big(\frac{U}{r_0} - \frac{U}{r_0 + R_{\mathrm{cond}}}\Big)\,
+\exp\!\left(-\frac{t}{\tau}\right)\,.
+\end{aligned}"
+409,0,0,\sigma=\frac{2\varepsilon_{0,"\sigma(\rho) = \begin{cases}
+\dfrac{2\,\varepsilon_0\,E_0}{\sqrt{\,1 - (\rho/a)^2\,}}, & 0 \le \rho < a,\\[6pt]
+0, & \rho \ge a,
+\end{cases}","\sigma(\rho) = \begin{cases}
+\dfrac{2\,\varepsilon_0\,E_0}{\sqrt{\,1 - (\rho/a)^2\,}}, & 0 \le \rho < a,\\[6pt]
+0, & \rho \ge a,
+\end{cases}"
+105,0,0,\lambda = -1,"\lambda = -\,c","\lambda = -\,c"
+617,0,0,\omega_\infty = \frac{l}{h} \sqrt{\frac{g}{2h}},"\;\omega_{\infty} \;=\; \sqrt{\frac{g}{h}\,\Bigl(1-\sqrt{1-\bigl(\tfrac{l}{h}\bigr)^2}\Bigr)}\;","\;\omega_{\infty} \;=\; \sqrt{\frac{g}{h}\,\Bigl(1-\sqrt{1-\bigl(\tfrac{l}{h}\bigr)^2}\Bigr)}\;"
+497,0,0,\Delta A = \frac{m A_0}{4M}\left[\gamma_2 + \frac{1}{3}(\gamma_1 - 1)\right],"\Delta A \;=\; A_0\left\{\left[\,\frac{M+\dfrac{\gamma_1 m}{3}}{M+\dfrac{m}{3}}\;\Big(1-\gamma_2 \frac{m}{M}\Big)\right]^{-1/4}\!-\;1\right\}
+\;\approx\; \frac{A_0}{4}\,\frac{m}{M}\left[\gamma_2-\frac{\gamma_1-1}{3}\right]\quad(m\ll M)","\Delta A \;=\; A_0\left\{\left[\,\frac{M+\dfrac{\gamma_1 m}{3}}{M+\dfrac{m}{3}}\;\Big(1-\gamma_2 \frac{m}{M}\Big)\right]^{-1/4}\!-\;1\right\}
+\;\approx\; \frac{A_0}{4}\,\frac{m}{M}\left[\gamma_2-\frac{\gamma_1-1}{3}\right]\quad(m\ll M)"
+39,0,0,T = 2\pi \sqrt{\frac{\rho_1 H}{\rho_2 g}},"\,T \;=\; 2\pi \sqrt{\dfrac{\rho_{1}\,H}{\rho_{2}\,g}} \;=\; 2\pi \sqrt{\dfrac{s_{\mathrm{eq}}}{g}},\quad s_{\mathrm{eq}}=\dfrac{\rho_1}{\rho_2}H\,","\,T \;=\; 2\pi \sqrt{\dfrac{\rho_{1}\,H}{\rho_{2}\,g}} \;=\; 2\pi \sqrt{\dfrac{s_{\mathrm{eq}}}{g}},\quad s_{\mathrm{eq}}=\dfrac{\rho_1}{\rho_2}H\,"
+55,0,0,|F|=\frac{3(\varepsilon_r-1)V\lambda^2}{4\pi^2\varepsilon_{0}(\varepsilon_r+2)r^3},"\mathbf{F}(r) = -\,\frac{3 V}{4\pi^{2}\,\varepsilon_{0}}\;\frac{\varepsilon_{r}-1}{\varepsilon_{r}+2}\;\frac{\lambda^{2}}{r^{3}}\;\hat{\mathbf{r}}
+\quad\text{and}\quad
+|\mathbf{F}(r)| = \frac{3 V}{4\pi^{2}\,\varepsilon_{0}}\;\frac{\varepsilon_{r}-1}{\varepsilon_{r}+2}\;\frac{\lambda^{2}}{r^{3}}
+\;\;(\text{attractive for }\varepsilon_{r}>1)","\mathbf{F}(r) = -\,\frac{3 V}{4\pi^{2}\,\varepsilon_{0}}\;\frac{\varepsilon_{r}-1}{\varepsilon_{r}+2}\;\frac{\lambda^{2}}{r^{3}}\;\hat{\mathbf{r}}
+\quad\text{and}\quad
+|\mathbf{F}(r)| = \frac{3 V}{4\pi^{2}\,\varepsilon_{0}}\;\frac{\varepsilon_{r}-1}{\varepsilon_{r}+2}\;\frac{\lambda^{2}}{r^{3}}
+\;\;(\text{attractive for }\varepsilon_{r}>1)"
+419,0,0,R_{s}=\left(1+\left(\frac{2\mathrm{e}^{-\frac{2\pi d}{\lambda}\sqrt{\mathrm{sin}i_2^2-n^2}}}{1 - \mathrm{e}^{-\frac{4\pi d}{\lambda}\sqrt{\mathrm{sin}i_2^2-n^2}}}\frac{2\sqrt{(1 - \sin^{2}i_{2})(\sin^{2}i_{2}-n^{2})}}{1 - n^{2}}\right)^{2}\right)^{-1},"\text{For s-polarized light: } R_s = \begin{cases}
+\dfrac{4 r^2 \sin^2\!\left(\dfrac{2\pi n d}{\lambda}\cos i_1\right)}{(1 - r^2)^2 + 4 r^2 \sin^2\!\left(\dfrac{2\pi n d}{\lambda}\cos i_1\right)}, & \sin i_2 \le n, \\[1.25em]
+\dfrac{(1 - e^{-\frac{4\pi d}{\lambda}\sqrt{\sin^2 i_2 - n^2}})^2}{(1 - e^{-\frac{4\pi d}{\lambda}\sqrt{\sin^2 i_2 - n^2}})^2 + \dfrac{16\,e^{-\frac{4\pi d}{\lambda}\sqrt{\sin^2 i_2 - n^2}}\,\cos^2 i_2\,(\sin^2 i_2 - n^2)}{(1 - n^2)^2}}, & \sin i_2 > n,
+\end{cases}","\text{For s-polarized light: } R_s = \begin{cases}
+\dfrac{4 r^2 \sin^2\!\left(\dfrac{2\pi n d}{\lambda}\cos i_1\right)}{(1 - r^2)^2 + 4 r^2 \sin^2\!\left(\dfrac{2\pi n d}{\lambda}\cos i_1\right)}, & \sin i_2 \le n, \\[1.25em]
+\dfrac{(1 - e^{-\frac{4\pi d}{\lambda}\sqrt{\sin^2 i_2 - n^2}})^2}{(1 - e^{-\frac{4\pi d}{\lambda}\sqrt{\sin^2 i_2 - n^2}})^2 + \dfrac{16\,e^{-\frac{4\pi d}{\lambda}\sqrt{\sin^2 i_2 - n^2}}\,\cos^2 i_2\,(\sin^2 i_2 - n^2)}{(1 - n^2)^2}}, & \sin i_2 > n,
+\end{cases}"
+206,0,0,\frac{V_0}{\ln\left(\frac{\tan\left(\frac{\alpha_2}{2}\right)}{\tan\left(\frac{\alpha_1}{2}\right)}\right)}\ln\left(\frac{\tan\left(\frac{\alpha}{2}\right)}{\tan\left(\frac{\alpha_1}{2}\right)}\right),"V(\alpha) \;=\; V_{0}\,\frac{\ln\!\big(\tan(\alpha/2)/\tan(\alpha_{1}/2)\big)}{\ln\!\big(\tan(\alpha_{2}/2)/\tan(\alpha_{1}/2)\big)} \,,\quad \alpha_{1}<\alpha<\alpha_{2}","V(\alpha) \;=\; V_{0}\,\frac{\ln\!\big(\tan(\alpha/2)/\tan(\alpha_{1}/2)\big)}{\ln\!\big(\tan(\alpha_{2}/2)/\tan(\alpha_{1}/2)\big)} \,,\quad \alpha_{1}<\alpha<\alpha_{2}"
+204,0,0,\sqrt{\frac{Q_{0} q}{2 \pi \varepsilon_0 m} \frac{R^2 - 2l^2}{(R^2+l^2)^{5/2}}},"\;\omega_{z} \;=\; \sqrt{\;\frac{q\,Q_{0}}{2\pi\,\varepsilon_{0}\,m}\;\frac{R^{2}-2l^{2}}{(R^{2}+l^{2})^{5/2}}\;}\quad\text{(stable if }Q_{0}(R^{2}-2l^{2})>0\text{)}\;","\;\omega_{z} \;=\; \sqrt{\;\frac{q\,Q_{0}}{2\pi\,\varepsilon_{0}\,m}\;\frac{R^{2}-2l^{2}}{(R^{2}+l^{2})^{5/2}}\;}\quad\text{(stable if }Q_{0}(R^{2}-2l^{2})>0\text{)}\;"
+71,0,0,\mathbf{v}_{gc} = \frac{\mathbf{E}_0 \times \mathbf{B}}{B^2} \cos(k (y_0 - \frac{m v_\perp \cos\delta}{qB})) \left(1 - \frac{1}{4}k^2 \left(\frac{m v_\perp}{|q|B}\right)^2\right),"\mathbf{v}_{\mathrm{gc}\perp} \;=\; \frac{\langle \mathbf{E}_\perp \rangle \times \mathbf{B}}{B^2}
+\;=\; -\,\frac{E_0}{B}\,J_0(k\rho)\,\cos\!\big(kY_0\big)\,\hat{\mathbf{y}},\quad
+\rho=\frac{m v_\perp}{|q|B},\; Y_0=y_0-\rho\cos\delta,","\mathbf{v}_{\mathrm{gc}\perp} \;=\; \frac{\langle \mathbf{E}_\perp \rangle \times \mathbf{B}}{B^2}
+\;=\; -\,\frac{E_0}{B}\,J_0(k\rho)\,\cos\!\big(kY_0\big)\,\hat{\mathbf{y}},\quad
+\rho=\frac{m v_\perp}{|q|B},\; Y_0=y_0-\rho\cos\delta,"
+505,0,0,y^{2,"\begin{cases}
+y^2 = (R^2 - x^2) - \dfrac{g^2}{\omega^4}, & |x| \le \sqrt{R^2 - \dfrac{g^2}{\omega^4}},\\[6pt]
+y^2 = (R^2 - x^2)\left[1 - \dfrac{\omega^4}{g^2}(R^2 - x^2)\right], & \sqrt{R^2 - \dfrac{g^2}{\omega^4}} \le |x| \le R.
+\end{cases}","\begin{cases}
+y^2 = (R^2 - x^2) - \dfrac{g^2}{\omega^4}, & |x| \le \sqrt{R^2 - \dfrac{g^2}{\omega^4}},\\[6pt]
+y^2 = (R^2 - x^2)\left[1 - \dfrac{\omega^4}{g^2}(R^2 - x^2)\right], & \sqrt{R^2 - \dfrac{g^2}{\omega^4}} \le |x| \le R.
+\end{cases}"
+636,0,0,-\frac{3\pi R^2}{4 r_0^2}\sqrt{\frac{4\pi\epsilon_0 m r_0^3}{n Q q}},"\,\Delta T \equiv T_{r} - T_{\phi} \simeq -\,\frac{3\pi R^{2}}{4 r_{0}^{2}}\;\sqrt{\frac{4\pi\epsilon_{0}\,m\,r_{0}^{3}}{n\,Q\,q}}\,,\quad \text{for } r_{0}\gg R\,","\,\Delta T \equiv T_{r} - T_{\phi} \simeq -\,\frac{3\pi R^{2}}{4 r_{0}^{2}}\;\sqrt{\frac{4\pi\epsilon_{0}\,m\,r_{0}^{3}}{n\,Q\,q}}\,,\quad \text{for } r_{0}\gg R\,"
+228,0,0,\frac{3\sin(\theta_1-\theta_2)\left[2g\cos\theta_1+2l_1\omega_1^2+l_2\omega_2^2\cos(\theta_1-\theta_2)\right]}{l_2\left[1+3\sin^2(\theta_1-\theta_2)\right]},"\alpha_{2}
+=
+-\frac{6\,\sin(\theta_{1}+\theta_{2})}{\,l_{2}\,\big(1+3\sin^{2}(\theta_{1}+\theta_{2})\big)}\,
+\Big[
+\,l_{1}\,\omega_{1}^{2}
++\frac{l_{2}}{2}\,\omega_{2}^{2}\cos(\theta_{1}+\theta_{2})
++g\,\cos\theta_{1}
+\Big]","\alpha_{2}
+=
+-\frac{6\,\sin(\theta_{1}+\theta_{2})}{\,l_{2}\,\big(1+3\sin^{2}(\theta_{1}+\theta_{2})\big)}\,
+\Big[
+\,l_{1}\,\omega_{1}^{2}
++\frac{l_{2}}{2}\,\omega_{2}^{2}\cos(\theta_{1}+\theta_{2})
++g\,\cos\theta_{1}
+\Big]"
+649,0,0,\frac{2\pi}{\mu_0 R^2} \sqrt{\frac{m(R^2 - 2l^2)(R^2 + l^2)^{1/2}}{\pi \varepsilon_0 Q_0 q}},"\begin{aligned}
+&\text{Require }R^2>2l^2\text{ (so that } \kappa>0\text{ and axial motion is stable).}\\[4pt]
+&\kappa=\frac{Q_0}{2\pi\epsilon_0}\,\frac{R^2-2l^2}{(R^2+l^2)^{5/2}},\quad
+B_0(\Omega)=\frac{\mu_0 Q_0 \Omega}{2\pi}\,\frac{R^2}{(R^2+l^2)^{3/2}},\\[6pt]
+&\text{Radial stability requires }B_0\ge B_{0,\min}=\sqrt{\frac{2m\kappa}{q}},\\[6pt]
+&\Rightarrow\ \Omega_{\min}=\frac{2\pi}{\mu_0 Q_0}\,\frac{(R^2+l^2)^{3/2}}{R^2}\,
+\sqrt{\frac{2m\kappa}{q}}
+=\frac{2\pi}{\mu_0}\,\frac{(R^2+l^2)^{1/4}}{R^2}\,
+\sqrt{\frac{m\,(R^2-2l^2)}{\pi\,\epsilon_0\,q\,Q_0}}\,.
+\end{aligned}","\begin{aligned}
+&\text{Require }R^2>2l^2\text{ (so that } \kappa>0\text{ and axial motion is stable).}\\[4pt]
+&\kappa=\frac{Q_0}{2\pi\epsilon_0}\,\frac{R^2-2l^2}{(R^2+l^2)^{5/2}},\quad
+B_0(\Omega)=\frac{\mu_0 Q_0 \Omega}{2\pi}\,\frac{R^2}{(R^2+l^2)^{3/2}},\\[6pt]
+&\text{Radial stability requires }B_0\ge B_{0,\min}=\sqrt{\frac{2m\kappa}{q}},\\[6pt]
+&\Rightarrow\ \Omega_{\min}=\frac{2\pi}{\mu_0 Q_0}\,\frac{(R^2+l^2)^{3/2}}{R^2}\,
+\sqrt{\frac{2m\kappa}{q}}
+=\frac{2\pi}{\mu_0}\,\frac{(R^2+l^2)^{1/4}}{R^2}\,
+\sqrt{\frac{m\,(R^2-2l^2)}{\pi\,\epsilon_0\,q\,Q_0}}\,.
+\end{aligned}"
+688,0,0,T = \frac{2\pi m}{q B_0 \sqrt{n+1}},"T \;=\; \frac{2\pi}{\omega_r} \;=\; \frac{2\pi m}{\,q\, B(r_0)\, \sqrt{\,1+n\,}} \quad\text{with}\quad \omega_r=\sqrt{1+n}\,\frac{q B(r_0)}{m},\ \ (n>-1).","T \;=\; \frac{2\pi}{\omega_r} \;=\; \frac{2\pi m}{\,q\, B(r_0)\, \sqrt{\,1+n\,}} \quad\text{with}\quad \omega_r=\sqrt{1+n}\,\frac{q B(r_0)}{m},\ \ (n>-1)."
+318,0,0,F = -\frac{1}{2} \pi R^2 h \gamma P_0 A^2 k^3 \sin(2kx),"F(x_0,t)=\pi R^2\,\gamma P_0\,A\,k\,[\sin(k x_0)-\sin(k(x_0+h))]\cos(2\pi f t)
+=-\,2\pi R^2\,\gamma P_0\,A\,k\,\sin\!\left(\frac{k h}{2}\right)\cos\!\left(k\left(x_0+\frac{h}{2}\right)\right)\cos(2\pi f t)","F(x_0,t)=\pi R^2\,\gamma P_0\,A\,k\,[\sin(k x_0)-\sin(k(x_0+h))]\cos(2\pi f t)
+=-\,2\pi R^2\,\gamma P_0\,A\,k\,\sin\!\left(\frac{k h}{2}\right)\cos\!\left(k\left(x_0+\frac{h}{2}\right)\right)\cos(2\pi f t)"
+62,0,0,\gamma B(2JS + \gamma B),"\omega_{+}\,\omega_{-} \;=\; \gamma B\;\big(\gamma B + 2 J S\big)","\omega_{+}\,\omega_{-} \;=\; \gamma B\;\big(\gamma B + 2 J S\big)"
+143,0,0,2\left(\pi+\frac{2a}{b}\right)\sqrt{\frac{m}{k}},"\,T \;=\; \left(2\pi + \frac{4a}{b}\right)\sqrt{\frac{m}{k}} \quad \text{(with tension } T=k\,\text{extension and } \omega=\sqrt{k/m})\,","\,T \;=\; \left(2\pi + \frac{4a}{b}\right)\sqrt{\frac{m}{k}} \quad \text{(with tension } T=k\,\text{extension and } \omega=\sqrt{k/m})\,"
+401,0,0,\varphi=\frac{2k^{2,"\varphi \;\approx\; \frac{2\,k^{2}\,\theta}{\,1-\varepsilon\,}","\varphi \;\approx\; \frac{2\,k^{2}\,\theta}{\,1-\varepsilon\,}"
+443,0,0,\lambda=\sqrt{\frac{\varepsilon_{1}+\varepsilon_{21}}{\varepsilon_{1}\varepsilon_{21}}}\lambda_{0},"\lambda \;=\; \frac{2\pi}{\mathrm{Re}\,k_{\mathrm{SP}}},\quad k_{\mathrm{SP}} = k_0 \sqrt{\frac{\varepsilon_1 \,\widetilde{\varepsilon}_2}{\varepsilon_1+\widetilde{\varepsilon}_2}},\;\; k_0=\frac{2\pi}{\lambda_0};\;\; \text{to lowest order in } \varepsilon_{22}: \;\; \lambda \simeq \lambda_0\,\sqrt{\frac{\varepsilon_1+\varepsilon_{21}}{\varepsilon_1\,\varepsilon_{21}}}","\lambda \;=\; \frac{2\pi}{\mathrm{Re}\,k_{\mathrm{SP}}},\quad k_{\mathrm{SP}} = k_0 \sqrt{\frac{\varepsilon_1 \,\widetilde{\varepsilon}_2}{\varepsilon_1+\widetilde{\varepsilon}_2}},\;\; k_0=\frac{2\pi}{\lambda_0};\;\; \text{to lowest order in } \varepsilon_{22}: \;\; \lambda \simeq \lambda_0\,\sqrt{\frac{\varepsilon_1+\varepsilon_{21}}{\varepsilon_1\,\varepsilon_{21}}}"
+69,0,0,\Delta\alpha = \frac{3\pi}{2} \cdot \frac{G^{8/3} M_J M_S (M_S + M_J)^{2/3} m^4}{\Omega^{4/3} L^4},"\Delta \alpha \;=\; \frac{3\pi}{2}\,\frac{G^{8/3}\,(M_S M_J)\,(M_S+M_J)^{2/3}}{\Omega^{4/3}}\;\frac{m^{4}}{L^{4}} \;=\; \frac{3\pi}{2}\,\frac{G^{2}\,\mu_b\,M\,R_0^{2}}{h^{4}}\,,\;\; \big(h=L/m,\;M=M_S+M_J,\;\mu_b=\tfrac{M_S M_J}{M},\;R_0^3=\tfrac{GM}{\Omega^2}\big)","\Delta \alpha \;=\; \frac{3\pi}{2}\,\frac{G^{8/3}\,(M_S M_J)\,(M_S+M_J)^{2/3}}{\Omega^{4/3}}\;\frac{m^{4}}{L^{4}} \;=\; \frac{3\pi}{2}\,\frac{G^{2}\,\mu_b\,M\,R_0^{2}}{h^{4}}\,,\;\; \big(h=L/m,\;M=M_S+M_J,\;\mu_b=\tfrac{M_S M_J}{M},\;R_0^3=\tfrac{GM}{\Omega^2}\big)"
+709,0,0,\delta \omega = -\frac{2}{m^2+1} \Omega,\delta\omega \;=\; \Omega \quad \text{(in the same sense as } \Omega\text{)},\delta\omega \;=\; \Omega \quad \text{(in the same sense as } \Omega\text{)}
+36,0,0,\sqrt{\frac{30\omega^2 + \frac{45Gm}{r^3}}{16\pi\rho G}},"e \;\approx\; \sqrt{\;\frac{15}{8\pi G\rho}\,\omega^{2}\;+\;\frac{45}{16\pi \rho}\,\frac{m}{r^{3}}\;}
+\;=\; \sqrt{\;\frac{15}{8\pi G\rho}\,\omega^{2}\;+\;\frac{45}{8}\,\frac{\lambda}{\rho\,r^{2}}\;}","e \;\approx\; \sqrt{\;\frac{15}{8\pi G\rho}\,\omega^{2}\;+\;\frac{45}{16\pi \rho}\,\frac{m}{r^{3}}\;}
+\;=\; \sqrt{\;\frac{15}{8\pi G\rho}\,\omega^{2}\;+\;\frac{45}{8}\,\frac{\lambda}{\rho\,r^{2}}\;}"
+50,0,0,T_0 \frac{\left(1+\frac{Nmg}{p_1 S}\right)^{\frac{2p_1 S}{7Nmg}}}{\left(1+\frac{Nmg}{p_0 S}\right)^{\frac{2p_0 S}{7Nmg}}} \left(\frac{p_1 S+Nmg}{p_0 S+Nmg}\right)^{\frac{2}{7}},"T_{1}
+=
+T_{0}\,
+\exp\!\left\{\frac{2}{7}\left[
+\frac{p_{1}}{C}\ln\!\left(1+\frac{C}{p_{1}}\right)
+-
+\frac{p_{0}}{C}\ln\!\left(1+\frac{C}{p_{0}}\right)
++\ln\!\frac{p_{1}+C}{p_{0}+C}
+\right]\right\},
+\quad
+C=\frac{N m g}{S}","T_{1}
+=
+T_{0}\,
+\exp\!\left\{\frac{2}{7}\left[
+\frac{p_{1}}{C}\ln\!\left(1+\frac{C}{p_{1}}\right)
+-
+\frac{p_{0}}{C}\ln\!\left(1+\frac{C}{p_{0}}\right)
++\ln\!\frac{p_{1}+C}{p_{0}+C}
+\right]\right\},
+\quad
+C=\frac{N m g}{S}"
+221,0,0,t=\frac{1}{\rho A}\sqrt{\frac{\left(\frac{k R_{0}^{2}}{m_{0}c^{2}}+\sqrt{\left(\frac{k R_{0}^{2}}{m_{0}c^{2}}\right)^{2}+4}\right)m_{0} R_{0}^{4}}{2k}}\left(\frac{k}{c^{2}}\left(-\frac{1}{R}+\frac{1}{R_{0}}\right)+\frac{4}{7}\frac{\left(\frac{k R_{0}^{2}}{m_{0}c^{2}}+\sqrt{\left(\frac{k R_{0}^{2}}{m_{0}c^{2}}\right)^{2}+4}\right)m_{0} R_{0}^{4}}{2}\left(\frac{1}{R^{7}}-\frac{1}{R_{0}^{7}}\right)\right),"\begin{aligned}
+&\text{With }m(t)\approx m_0\text{ (since }m_0 \gg \rho A R\text{), the instantaneous circular motion satisfies }\\
+&\qquad k\,R=\frac{\gamma m_0 v^2}{R},\quad \beta\equiv \frac{v}{c},\quad \gamma=\frac{1}{\sqrt{1-\beta^2}},\\
+&\text{and the accretion drag gives } \dot R=-\frac{\rho A\,c\,\beta\,R}{2m_0}\Bigl(3-2\beta^2\Bigr).\\[4pt]
+&\text{Eliminating }v,\gamma\text{ using the circular balance, one finds } \beta^2(R)=\frac{\alpha(R)}{\alpha(R)+\sqrt{\alpha(R)^2+4}},\quad
+\alpha(R)=\frac{k R^2}{m_0 c^2}.\\[4pt]
+&\text{Hence the time to shrink from }R_0\text{ to }R\text{ is the quadrature}\\
+&\qquad t(R)=\frac{2m_0}{\rho A c}\int_{R}^{R_0}\frac{dR}{R\,\beta(R)\,\bigl(3-2\beta(R)^2\bigr)}.\\[6pt]
+&\text{Two useful closed-form limits:}\\[2pt]
+&\text{(i) Nonrelativistic }(\alpha\ll 1):\quad t_{\rm NR}(R)=\frac{2\,m_0^{3/2}}{3\,\rho A\,\sqrt{k}}\left(\frac{1}{R}-\frac{1}{R_0}\right).\\[4pt]
+&\text{(ii) Ultra-relativistic }(\alpha\gg 1):\quad t_{\rm UR}(R)\simeq \frac{m_0\sqrt{2}}{\rho A c}\,\ln\!\left(\frac{R_0}{R}\right).
+\end{aligned}","\begin{aligned}
+&\text{With }m(t)\approx m_0\text{ (since }m_0 \gg \rho A R\text{), the instantaneous circular motion satisfies }\\
+&\qquad k\,R=\frac{\gamma m_0 v^2}{R},\quad \beta\equiv \frac{v}{c},\quad \gamma=\frac{1}{\sqrt{1-\beta^2}},\\
+&\text{and the accretion drag gives } \dot R=-\frac{\rho A\,c\,\beta\,R}{2m_0}\Bigl(3-2\beta^2\Bigr).\\[4pt]
+&\text{Eliminating }v,\gamma\text{ using the circular balance, one finds } \beta^2(R)=\frac{\alpha(R)}{\alpha(R)+\sqrt{\alpha(R)^2+4}},\quad
+\alpha(R)=\frac{k R^2}{m_0 c^2}.\\[4pt]
+&\text{Hence the time to shrink from }R_0\text{ to }R\text{ is the quadrature}\\
+&\qquad t(R)=\frac{2m_0}{\rho A c}\int_{R}^{R_0}\frac{dR}{R\,\beta(R)\,\bigl(3-2\beta(R)^2\bigr)}.\\[6pt]
+&\text{Two useful closed-form limits:}\\[2pt]
+&\text{(i) Nonrelativistic }(\alpha\ll 1):\quad t_{\rm NR}(R)=\frac{2\,m_0^{3/2}}{3\,\rho A\,\sqrt{k}}\left(\frac{1}{R}-\frac{1}{R_0}\right).\\[4pt]
+&\text{(ii) Ultra-relativistic }(\alpha\gg 1):\quad t_{\rm UR}(R)\simeq \frac{m_0\sqrt{2}}{\rho A c}\,\ln\!\left(\frac{R_0}{R}\right).
+\end{aligned}"
+120,0,0,\eta=\frac{\gamma-1}{2\sqrt{\gamma p_0 V_0/W}-1},"\,\eta_{\max} \;=\; \frac{(\gamma - 1)\,W}{\,2\sqrt{\gamma\,p_{0}V_{0}\,W}\;-\;W\,}
+\;=\; \frac{(\gamma - 1)\,\sqrt{W/(\gamma p_{0}V_{0})}}{2 - \sqrt{W/(\gamma p_{0}V_{0})}}\,,\;\;\text{with}\;\;
+\Delta V^{*}=\sqrt{\frac{W V_{0}}{\gamma p_{0}}},\;\Delta p^{*}=\sqrt{\frac{\gamma p_{0} W}{V_{0}}}\,","\,\eta_{\max} \;=\; \frac{(\gamma - 1)\,W}{\,2\sqrt{\gamma\,p_{0}V_{0}\,W}\;-\;W\,}
+\;=\; \frac{(\gamma - 1)\,\sqrt{W/(\gamma p_{0}V_{0})}}{2 - \sqrt{W/(\gamma p_{0}V_{0})}}\,,\;\;\text{with}\;\;
+\Delta V^{*}=\sqrt{\frac{W V_{0}}{\gamma p_{0}}},\;\Delta p^{*}=\sqrt{\frac{\gamma p_{0} W}{V_{0}}}\,"
+72,0,0,l=0.20\frac{V_0}{S},"\,l \;\approx\; 0.10\;\frac{V_{0}}{S}\,","\,l \;\approx\; 0.10\;\frac{V_{0}}{S}\,"
+412,0,0,$$ T=2\pi\sqrt{\frac{\frac{1}{(z_0^{2}+R^{2})^{3/2}}(\frac{\mu_{0}n I\pi r^{2}}{2L}(1-\frac{z_0}{\sqrt{z_0^{2}+R^{2}}})-I_{0})}{g\left[(\frac{\mu_{0}n I\pi r^{2}}{2L}-I_{0})\frac{3z_{0}}{(z_{0}^{2}+R^{2})^{5/2}}-\frac{\mu_{0}n I\pi r^{2}}{2L}\frac{3z_{0}^{2}-R^{2}}{(z_{0}^{2}+R^{2})^{3}}\right]}} $$,"T \;=\; 2\pi\,\sqrt{\frac{m}{\,k\,}}\,,\quad
+k \;=\; \frac{(\pi r^{2})^{2}}{L}\,\Big[ B'(z_{0}) \Big]^{2} \;-\; \pi r^{2}\,I_{0}\,B''(z_{0})\,,","T \;=\; 2\pi\,\sqrt{\frac{m}{\,k\,}}\,,\quad
+k \;=\; \frac{(\pi r^{2})^{2}}{L}\,\Big[ B'(z_{0}) \Big]^{2} \;-\; \pi r^{2}\,I_{0}\,B''(z_{0})\,,"
+43,0,0,I = A U_0 \left[\frac{\sigma_1 \sigma_2}{\sigma_1 h_2 + \sigma_2 h_1} + e^{-\frac{\sigma_1 h_2 + \sigma_2 h_1}{\varepsilon_1 h_2 + \varepsilon_2 h_1} t} \left(\frac{\varepsilon_2 \sigma_1 + \varepsilon_1 \sigma_2}{\varepsilon_1 h_2 + \varepsilon_2 h_1} - \frac{\sigma_1 \sigma_2}{\sigma_1 h_2 + \sigma_2 h_1} - \frac{\varepsilon_1 \varepsilon_2 (\sigma_1 h_2 + \sigma_2 h_1)}{(\varepsilon_1 h_2 + \varepsilon_2 h_1)^2} \right)\right],"\begin{aligned}
+&\text{For } t>0:\quad I(t)\;=\;A\,\frac{\sigma_1 \sigma_2\,U_0}{\sigma_1 h_2+\sigma_2 h_1}
+\;+\;A\,U_0\,\frac{h_1 h_2\,(\sigma_1 \varepsilon_2-\sigma_2 \varepsilon_1)^2}{(\varepsilon_1 h_2+\varepsilon_2 h_1)^2\,(\sigma_1 h_2+\sigma_2 h_1)}\;
+\exp\!\left[-\,\frac{\sigma_1 h_2+\sigma_2 h_1}{\varepsilon_1 h_2+\varepsilon_2 h_1}\,t\right],\\
+&\text{with time constant }\;\tau=\frac{\varepsilon_1 h_2+\varepsilon_2 h_1}{\sigma_1 h_2+\sigma_2 h_1},\\
+&\text{and an initial impulse at }t=0\text{ of area }U_0 C_{\rm series},\;\;C_{\rm series}=\frac{A\,\varepsilon_1 \varepsilon_2}{\varepsilon_1 h_2+\varepsilon_2 h_1}.
+\end{aligned}","\begin{aligned}
+&\text{For } t>0:\quad I(t)\;=\;A\,\frac{\sigma_1 \sigma_2\,U_0}{\sigma_1 h_2+\sigma_2 h_1}
+\;+\;A\,U_0\,\frac{h_1 h_2\,(\sigma_1 \varepsilon_2-\sigma_2 \varepsilon_1)^2}{(\varepsilon_1 h_2+\varepsilon_2 h_1)^2\,(\sigma_1 h_2+\sigma_2 h_1)}\;
+\exp\!\left[-\,\frac{\sigma_1 h_2+\sigma_2 h_1}{\varepsilon_1 h_2+\varepsilon_2 h_1}\,t\right],\\
+&\text{with time constant }\;\tau=\frac{\varepsilon_1 h_2+\varepsilon_2 h_1}{\sigma_1 h_2+\sigma_2 h_1},\\
+&\text{and an initial impulse at }t=0\text{ of area }U_0 C_{\rm series},\;\;C_{\rm series}=\frac{A\,\varepsilon_1 \varepsilon_2}{\varepsilon_1 h_2+\varepsilon_2 h_1}.
+\end{aligned}"
+117,0,0,\delta y=\frac{64}{3}\frac{\sigma R^2 r}{M},"\,\Delta h \;\equiv\; y_{\text{max below far rim}} \;=\; R\bigl(1-\cos\theta_f\bigr)\;\approx\;\frac{64}{3}\,\frac{\sigma\,r\,R^{2}}{M}\,","\,\Delta h \;\equiv\; y_{\text{max below far rim}} \;=\; R\bigl(1-\cos\theta_f\bigr)\;\approx\;\frac{64}{3}\,\frac{\sigma\,r\,R^{2}}{M}\,"
+37,0,0,\frac{\mu^2\omega hg}{2v},"\,a_y \;\simeq\; \frac{\mu^2\, g\, h}{2}\;\frac{\omega}{v}\quad\text{for } v \gg \omega r\,,","\,a_y \;\simeq\; \frac{\mu^2\, g\, h}{2}\;\frac{\omega}{v}\quad\text{for } v \gg \omega r\,,"
+25,0,0,a(1-\cos\theta),"\,r(\theta)\;=\;a\,\frac{v_0^2}{v^2}\,\bigl(1-\cos\theta\bigr)\;=\;2a\,\frac{v_0^2}{v^2}\,\sin^2\!\frac{\theta}{2}\,","\,r(\theta)\;=\;a\,\frac{v_0^2}{v^2}\,\bigl(1-\cos\theta\bigr)\;=\;2a\,\frac{v_0^2}{v^2}\,\sin^2\!\frac{\theta}{2}\,"
+89,0,0,3\omega^2 - \frac{Ne q_0}{2\pi m H \varepsilon_0 r_0^2} \left( \frac{(2k m_N r_0^2 - 1)e^{m_N k r_0^2} + 1}{e^{m_N k R^2} - 1} - \frac{(2k m_e r_0^2 - 1)e^{m_e k r_0^2} + 1}{e^{m_e k R^2} - 1} \right) + \frac{k N V \omega^2}{\pi m H} \left( \frac{(2k m_N r_0^2 + 1)e^{m_N k r_0^2}}{e^{m_N k R^2} - 1} m_N^2 + \frac{(2k m_c r_0^2 + 1)e^{m_c k r_0^2}}{e^{m_c k R^2} - 1} m_c^2 \right),"\,\Omega \;=\;\Big[\,3\,\omega^{2}\;-\;\frac{q_{U}}{m}\,\Big(\frac{dE_{r}}{dr}\Big)_{r_{0}}\,\Big]^{1/2}
+\;=\;\Big[\,2\,\omega^{2}\;-\;\frac{q_{U}}{m}\,\frac{\rho(r_{0})}{\varepsilon_{0}}\,\Big]^{1/2}
+\;=\;\Big[\,3\,\omega^{2}\;-\;\frac{q_{U}}{2\pi\varepsilon_{0}m}\,\Big(\frac{q'_{\mathrm{encl}}(r_{0})}{r_{0}}-\frac{q_{\mathrm{encl}}(r_{0})}{r_{0}^{2}}\Big)\,\Big]^{1/2}\,","\,\Omega \;=\;\Big[\,3\,\omega^{2}\;-\;\frac{q_{U}}{m}\,\Big(\frac{dE_{r}}{dr}\Big)_{r_{0}}\,\Big]^{1/2}
+\;=\;\Big[\,2\,\omega^{2}\;-\;\frac{q_{U}}{m}\,\frac{\rho(r_{0})}{\varepsilon_{0}}\,\Big]^{1/2}
+\;=\;\Big[\,3\,\omega^{2}\;-\;\frac{q_{U}}{2\pi\varepsilon_{0}m}\,\Big(\frac{q'_{\mathrm{encl}}(r_{0})}{r_{0}}-\frac{q_{\mathrm{encl}}(r_{0})}{r_{0}^{2}}\Big)\,\Big]^{1/2}\,"

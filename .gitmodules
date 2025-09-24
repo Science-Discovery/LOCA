@@ -1,0 +1,9 @@
+[submodule "libs/phybench"]
+	path = libs/phybench
+	url = git@github.com:phybench-official/phybench.git
+[submodule "libs/ABench"]
+	path = libs/ABench
+	url = git@github.com:inclusionAI/ABench.git
+[submodule "libs/Physics"]
+	path = libs/Physics
+	url = https://github.com/yale-nlp/Physics.git

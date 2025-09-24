@@ -1,0 +1,25 @@
+[project]
+name = "test"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "aiohttp>=3.12.14",
+    "anthropic>=0.51.0",
+    "asyncio>=3.4.3",
+    "dotenv>=0.9.9",
+    "httpx[socks]>=0.28.1",
+    "ipykernel>=6.29.5",
+    "latex2sympy2-extended>=1.10.1",
+    "matplotlib>=3.10.3",
+    "mypy>=1.16.0",
+    "numpy>=2.2.6",
+    "openai>=1.79.0",
+    "pandas>=2.3.1",
+    "pyyaml>=6.0.2",
+    "requests>=2.32.3",
+    "sympy>=1.14.0",
+    "tabulate>=0.9.0",
+    "timeout-decorator>=0.5.0",
+]

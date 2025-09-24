@@ -1,0 +1,60 @@
+test_configs:
+  - name: "gemini-2.5-pro"
+    input_path: "problem_set/PHYBENCH_100/test.jsonl"
+    output_path: "test_results/PHYBench/self-refine/Gemini-2.5-pro/results.jsonl"
+    scheme: "loca"
+    temperature: 0.0
+    models:
+      generator: "gemini-2.5-pro"
+      reviewer: "gemini-2.5-pro"
+    loca_options:
+      refine_model: "gemini-2.5-pro"
+      max_error_times: 5
+      target_times: 1
+      ablation: true
+
+  - name: "o3-2025-04-16"
+    input_path: "problem_set/PHYBENCH_100/test.jsonl"
+    output_path: "test_results/PHYBench/self-refine/o3-2025-04-16/results.jsonl"
+    scheme: "loca"
+    temperature: 0.0
+    models:
+      generator: "o3-2025-04-16"
+      reviewer: "o3-2025-04-16"
+    loca_options:
+      refine_model: "o3-2025-04-16"
+      max_error_times: 5
+      target_times: 1
+      ablation: true
+
+  - name: "gpt-5"
+    input_path: "problem_set/PHYBENCH_100/test.jsonl"
+    output_path: "test_results/PHYBench/self-refine/GPT-5/results.jsonl"
+    scheme: "loca"
+    temperature: 0.0
+    models:
+      generator: "gpt-5"
+      reviewer: "gpt-5"
+    loca_options:
+      refine_model: "gpt-5"
+      max_error_times: 5
+      target_times: 1
+      ablation: true
+
+  - name: "deepseek-r1"
+    input_path: "problem_set/PHYBENCH_100/test.jsonl"
+    output_path: "test_results/PHYBench/self-refine/DeepSeek-r1-250528/results.jsonl"
+    scheme: "loca"
+    temperature: 0.0
+    models:
+      generator: "deepseek-r1-250528"
+      reviewer: "deepseek-r1-250528"
+    loca_options:
+      refine_model: "deepseek-r1-250528"
+      max_error_times: 5
+      target_times: 1
+      ablation: true
+
+global_settings:
+  concurrent_limit: 10
+  aux_dir_base: ".aux"

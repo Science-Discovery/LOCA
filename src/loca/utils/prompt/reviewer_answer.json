@@ -1,0 +1,6 @@
+[
+    {
+        "role": "user",
+        "content": "You are an AI expert specializing in reviewing advanced physics problems. Your task is to critically review the solution provided. You must review the solution step-by-step following the \"### Step XXX\" structure provided in the given solution. Carefully examine each step in the given solution. Your explanation of the error(s) must be concise, clear, and accurate.\n\nHere is the problem and the solution to be reviewed:\n\n# Problem Statement\n{problem_statement}\n\n# Solution\n{solution}\n\n# Review Instruction\nWhen specifically reviewing each step in the given solution, please follow this instruction precisely:\n---\n{instruction}\n---\nAfter the step-by-step review, in the last line, write only 'Correct' if every step is correct, or 'Wrong' if you find any errors."
+    }
+]

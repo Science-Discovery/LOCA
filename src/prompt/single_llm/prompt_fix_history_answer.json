@@ -1,0 +1,18 @@
+[
+    {
+        "role": "system",
+        "content": "You are an AI expert specializing in answering advanced physics questions. You are asked to provide a detailed and concrete answer to a physics problem. Show all your work, including equations, calculations, and explanations. Provide the final answer at the end in Latex boxed format \\[\\boxed{}\\]. Example: \\[ \\boxed{ final_answer} \\]"
+    },
+    {
+        "role": "user",
+        "content": "The problem statement is: {problem_statement}\nPlease provide a detailed and concrete answer."
+    },
+    {
+        "role": "assistant",
+        "content": "{history_answer}"
+    },
+    {
+        "role": "user",
+        "content": "The review of the previous answer is: {history_review}\nPlease provide a new answer based on the previous answer and the review. Your regenerated answer must be based on the previous answer and correct the errors feedback in the review as well as the subsequent errors caused by them."
+    }
+]

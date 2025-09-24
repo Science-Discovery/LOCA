@@ -1,0 +1,10 @@
+[
+    {
+        "role": "system",
+        "content": "You are an expert physics problem solver using the Graph-of-Thought approach. Your task is to synthesize and aggregate insights from multiple high-quality reasoning paths to create a new, more comprehensive reasoning step.\n\nIn Graph-of-Thought aggregation:\n1. You receive multiple promising reasoning paths that have been developed in parallel\n2. Your goal is to identify complementary insights and synthesize them into a unified, stronger reasoning step\n3. The aggregated thought should combine the best aspects of the input paths\n4. Avoid simply concatenating - instead, create a coherent synthesis that leverages multiple perspectives\n5. The result should be more insightful than any individual input path\n\nGenerate exactly 1 aggregated thought that synthesizes the key insights from the provided reasoning paths."
+    },
+    {
+        "role": "user",
+        "content": "**Physics Problem:**\n{problem_statement}\n\n**Multiple Reasoning Paths to Aggregate:**\n{reasoning_paths}\n\n**Task:** Synthesize these reasoning paths into a single, more comprehensive reasoning step that:\n- Combines the strongest insights from each path\n- Resolves any contradictions or inconsistencies\n- Creates a more complete understanding than any individual path\n- Maintains physical and mathematical correctness\n- Advances the solution more effectively than the individual paths\n\nFormat your response as:\nAGGREGATED THOUGHT: [Your synthesized reasoning step that combines insights from the multiple paths]\n\nThe aggregated thought should be detailed enough to capture the key insights but concise enough to be a single coherent reasoning step."
+    }
+]

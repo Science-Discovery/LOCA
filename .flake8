@@ -1,0 +1,4 @@
+[flake8]
+
+# Ignore specific errors
+ignore = E123, E124, E126, E128, E231, E251, E302, E305, E402, E501, F401, F541, F841, W291, W293, W605

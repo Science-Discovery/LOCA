@@ -1,0 +1,33 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+.env
+
+# log files
+*.log
+**/*.log
+
+# This is a temporary directory for storing API records
+.api.origin
+
+results/*
+
+**/.aux
+
+.yarn
+node_modules
+.pnp.*
+
+debate_logs
+.pytest_cache
+
+*.aux
+*.out
+*.synctex.gz

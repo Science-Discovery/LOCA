@@ -1,0 +1,501 @@
+id,llm_solution_score,llm_solution_v1_score,reference_answer,llm_solution_answer,llm_solution_v1_answer
+MECHANICS/321,100,100,\varphi = 2\pi \sqrt{\frac{1 + \frac{r}{\lambda}}{1 + \frac{r}{\lambda} - \frac{r^2}{\lambda^2}}},"\displaystyle \Delta\theta \;=\; 2\pi \sqrt{ \frac{1 + \dfrac{r}{\lambda}}{\,1 + \dfrac{r}{\lambda} - \left(\dfrac{r}{\lambda}\right)^{2}} }","\displaystyle \Delta\theta \;=\; 2\pi \sqrt{ \frac{1 + \dfrac{r}{\lambda}}{\,1 + \dfrac{r}{\lambda} - \left(\dfrac{r}{\lambda}\right)^{2}} }"
+MECHANICS/41,100,100,R\left(\frac{1}{\sqrt{k_2(1+k_1)-k_1}}-1\right),"\, h \;=\; R\!\left( \frac{1}{\sqrt{k_{2}\bigl(1+k_{1}\bigr)-k_{1}}}\;-\;1 \right) \,","\, h \;=\; R\!\left( \frac{1}{\sqrt{k_{2}\bigl(1+k_{1}\bigr)-k_{1}}}\;-\;1 \right) \,"
+THERMODYNAMICS/630,100,100,P_0 \frac{(1+\alpha)(5+10\alpha+2\alpha \frac{\lambda}{R T_0})}{5+8\alpha},"\,P_{1}=P_{0}\,(1+\alpha)\!\left[\,1+\dfrac{\alpha\left(1+\dfrac{\lambda}{R\,T_{0}}\right)}{\,4\alpha+\dfrac{5}{2}\,}\,\right]","\,P_{1}=P_{0}\,(1+\alpha)\!\left[\,1+\dfrac{\alpha\left(1+\dfrac{\lambda}{R\,T_{0}}\right)}{\,4\alpha+\dfrac{5}{2}\,}\,\right]"
+ELECTRICITY/702,100,100,\sqrt{\frac{2q\lambda}{\pi\varepsilon_0 a^2 m}},"\displaystyle \Omega_{\min}= \sqrt{\frac{2\,q\,\lambda}{\pi\,m\,\varepsilon_{0}\,a^{2}}}\,","\displaystyle \Omega_{\min}= \sqrt{\frac{2\,q\,\lambda}{\pi\,m\,\varepsilon_{0}\,a^{2}}}\,"
+MECHANICS/367,100,100,T = \frac{2\pi}{\omega} = 2\pi \sqrt{\frac{4\pi \epsilon_0 m a^3 b^2}{Qq (a^2 - b^2)}},"\;
+T \;=\; 2\pi \sqrt{\dfrac{m\,a^{3}b^{2}}{\displaystyle \frac{1}{4\pi\varepsilon_{0}}\;qQ\,(a^{2}-b^{2})}}
+       \;=\; 2\pi \sqrt{\dfrac{4\pi\varepsilon_{0}\,m\,a^{3}b^{2}}
+                              {qQ\,(a^{2}-b^{2})}}
+\;","\;
+T \;=\; 2\pi \sqrt{\dfrac{m\,a^{3}b^{2}}{\displaystyle \frac{1}{4\pi\varepsilon_{0}}\;qQ\,(a^{2}-b^{2})}}
+       \;=\; 2\pi \sqrt{\dfrac{4\pi\varepsilon_{0}\,m\,a^{3}b^{2}}
+                              {qQ\,(a^{2}-b^{2})}}
+\;"
+MECHANICS/39,100,100,T = 2\pi \sqrt{\frac{\rho_1 H}{\rho_2 g}},"\, T = 2\pi \sqrt{\dfrac{\rho_{1}}{\rho_{2}} \, \dfrac{H}{g}} \,","\, T = 2\pi \sqrt{\dfrac{\rho_{1}}{\rho_{2}} \, \dfrac{H}{g}} \,"
+MECHANICS/124,100,100,T=2\pi\sqrt{\frac{m(M+m\sin^2\theta)}{k(M+m)}},"\displaystyle T = 2\pi \sqrt{ \frac{ m\,[\,M + m - m \cos^2\theta\,] }{ k (M + m) } }","\displaystyle T = 2\pi \sqrt{ \frac{ m\,[\,M + m - m \cos^2\theta\,] }{ k (M + m) } }"
+MECHANICS/716,100,100,\omega_B = 4 \sqrt{\frac{13 k q Q}{23 m L^3}},"\,\displaystyle \omega = 4\sqrt{\frac{13\,k\,Q\,q}{23\,m\,L^{3}}}\,","\,\displaystyle \omega = 4\sqrt{\frac{13\,k\,Q\,q}{23\,m\,L^{3}}}\,"
+THERMODYNAMICS/103,100,100,R_{04} = (3 - \sqrt{3})R,"\,R_{04} = (3 - \sqrt{3})\,R\,","\,R_{04} = (3 - \sqrt{3})\,R\,"
+ELECTRICITY/112,100,100,Q_{tot} = \frac{6 \pi \varepsilon_0}{\varepsilon_r + 2} R^3 E_0^2,"\, Q \;=\; \dfrac{6\pi \,\varepsilon_{0}\,R^{3}\,E_{0}^{2}}
+               {\;\varepsilon_{r}+2\,}\;","\, Q \;=\; \dfrac{6\pi \,\varepsilon_{0}\,R^{3}\,E_{0}^{2}}
+               {\;\varepsilon_{r}+2\,}\;"
+ELECTRICITY/118,100,100,R_{BC} = \frac{38}{41}r,"\,R_{BC}= \dfrac{38}{41}\; r\,","\,R_{BC}= \dfrac{38}{41}\; r\,"
+ADVANCED/62,100,100,\gamma B(2JS + \gamma B),"\,\omega_{+}\,\omega_{-}= \gamma B\;\bigl(\gamma B + 2 J S\bigr)\,","\,\omega_{+}\,\omega_{-}= \gamma B\;\bigl(\gamma B + 2 J S\bigr)\,"
+MECHANICS/143,100,100,2\left(\pi+\frac{2a}{b}\right)\sqrt{\frac{m}{k}},"\;T \;=\; 2\sqrt{\dfrac{m}{k}}\left(\,\pi+\dfrac{2a}{b}\right)\;","\;T \;=\; 2\sqrt{\dfrac{m}{k}}\left(\,\pi+\dfrac{2a}{b}\right)\;"
+MECHANICS/69,100,100,\Delta\alpha = \frac{3\pi}{2} \cdot \frac{G^{8/3} M_J M_S (M_S + M_J)^{2/3} m^4}{\Omega^{4/3} L^4},"\,\displaystyle 
+\Delta\alpha
+= \frac{3\pi}{2}\,
+\frac{G^{\,8/3}\; m^{4}\; M_S M_J (M_S+M_J)^{2/3}}
+       {L^{4}\; \Omega^{4/3}} \;","\,\displaystyle 
+\Delta\alpha
+= \frac{3\pi}{2}\,
+\frac{G^{\,8/3}\; m^{4}\; M_S M_J (M_S+M_J)^{2/3}}
+       {L^{4}\; \Omega^{4/3}} \;"
+THERMODYNAMICS/50,100,100,T_0 \frac{\left(1+\frac{Nmg}{p_1 S}\right)^{\frac{2p_1 S}{7Nmg}}}{\left(1+\frac{Nmg}{p_0 S}\right)^{\frac{2p_0 S}{7Nmg}}} \left(\frac{p_1 S+Nmg}{p_0 S+Nmg}\right)^{\frac{2}{7}},"\,T_{1}=T_{0}\left[
+        \dfrac{\left(1+\dfrac{p_{1}S}{N m g}\right)
+               \left(1+\dfrac{N m g}{p_{1}S}\right)^{\dfrac{p_{1}S}{N m g}}}
+              {\left(1+\dfrac{p_{0}S}{N m g}\right)
+               \left(1+\dfrac{N m g}{p_{0}S}\right)^{\dfrac{p_{0}S}{N m g}}}
+        \right]^{\!2/7}","\,T_{1}=T_{0}\left[
+        \dfrac{\left(1+\dfrac{p_{1}S}{N m g}\right)
+               \left(1+\dfrac{N m g}{p_{1}S}\right)^{\dfrac{p_{1}S}{N m g}}}
+              {\left(1+\dfrac{p_{0}S}{N m g}\right)
+               \left(1+\dfrac{N m g}{p_{0}S}\right)^{\dfrac{p_{0}S}{N m g}}}
+        \right]^{\!2/7}"
+ELECTRICITY/670,100,100,\lambda_D = \sqrt{\frac{k T \varepsilon_0}{2 e^2 n_0}},"\,\displaystyle 
+\lambda_D = \sqrt{\frac{\varepsilon_0 k T}{2\,n_0 e^2}}\,","\,\displaystyle 
+\lambda_D = \sqrt{\frac{\varepsilon_0 k T}{2\,n_0 e^2}}\,"
+MECHANICS/140,100,100,\frac{\sqrt{6}}{18}P,"\,T=\dfrac{P}{3\sqrt6}\,","\,T=\dfrac{P}{3\sqrt6}\,"
+THERMODYNAMICS/719,100,100,T(h) = \frac{\mu G M_m}{n R (R_m + h)},"\displaystyle T(h)=\frac{G\,M_{m}\,\mu}{\,n\,R\,(R_{m}+h)}","\displaystyle T(h)=\frac{G\,M_{m}\,\mu}{\,n\,R\,(R_{m}+h)}"
+MODERN/211,100,100,\frac{a_A}{1+\frac{a_A L_0}{c^2}},"\,a_{B}= \dfrac{a_{A}}{\,1+\dfrac{a_{A}L_{0}}{c^{2}}\,}","\,a_{B}= \dfrac{a_{A}}{\,1+\dfrac{a_{A}L_{0}}{c^{2}}\,}"
+ELECTRICITY/58,100,100,\left(2-\frac{R_2}{R_1}\right)R_2,"\,R_{\text{eq}} = \dfrac{R_2\,(\,2\,R_1 - R_2\,)}{R_1}\,","\,R_{\text{eq}} = \dfrac{R_2\,(\,2\,R_1 - R_2\,)}{R_1}\,"
+THERMODYNAMICS/244,100,100,\gamma = \frac{7}{4},\gamma=\dfrac{7}{4},\gamma=\dfrac{7}{4}
+ELECTRICITY/10,58.03921568627451,58.03921568627451,\frac{q b}{2\pi \varepsilon_0} \left[ ((a+x)^2 + (z-c)^2 + b^2)^{-3/2} - ((x-a)^2 + (z-c)^2 + b^2)^{-3/2} \right],"\,\displaystyle
+\mathbf{E}(x,+0,z)= -\hat{\mathbf y}\,
+\frac{q\,b}{2\pi\varepsilon_0}\!
+\left[
+\frac{1}{\bigl[(x-a)^2+b^2+(z-c)^2\bigr]^{3/2}}
+-\frac{1}{\bigl[(x+a)^2+b^2+(z-c)^2\bigr]^{3/2}}
+\right]\,","\,\displaystyle
+\mathbf{E}(x,+0,z)= -\hat{\mathbf y}\,
+\frac{q\,b}{2\pi\varepsilon_0}\!
+\left[
+\frac{1}{\bigl[(x-a)^2+b^2+(z-c)^2\bigr]^{3/2}}
+-\frac{1}{\bigl[(x+a)^2+b^2+(z-c)^2\bigr]^{3/2}}
+\right]\,"
+MECHANICS/228,57.916666666666664,57.916666666666664,\frac{3\sin(\theta_1-\theta_2)\left[2g\cos\theta_1+2l_1\omega_1^2+l_2\omega_2^2\cos(\theta_1-\theta_2)\right]}{l_2\left[1+3\sin^2(\theta_1-\theta_2)\right]},"%
+\displaystyle
+\alpha_{2}= -\frac{6\,\sin\bigl(\theta_{1}-\theta_{2}\bigr)}
+                   {\,l_{2}\bigl[\,1+3\sin^{2}\bigl(\theta_{1}-\theta_{2}\bigr)\bigr]}\;
+           \left(
+               l_{1}\,\omega_{1}^{2}
+               +\frac{l_{2}}{2}\,\cos\bigl(\theta_{1}-\theta_{2}\bigr)\,\omega_{2}^{2}
+               +g\cos\theta_{1}
+           \right)","%
+\displaystyle
+\alpha_{2}= -\frac{6\,\sin\bigl(\theta_{1}-\theta_{2}\bigr)}
+                   {\,l_{2}\bigl[\,1+3\sin^{2}\bigl(\theta_{1}-\theta_{2}\bigr)\bigr]}\;
+           \left(
+               l_{1}\,\omega_{1}^{2}
+               +\frac{l_{2}}{2}\,\cos\bigl(\theta_{1}-\theta_{2}\bigr)\,\omega_{2}^{2}
+               +g\cos\theta_{1}
+           \right)"
+ELECTRICITY/204,57.5,57.5,\sqrt{\frac{Q q}{2 \pi \varepsilon_0 m} \frac{R^2 - 2l^2}{(R^2+l^2)^{5/2}}},"\,\displaystyle 
+\omega_{z} = \sqrt{\frac{qQ_{0}}{2\pi\varepsilon_{0}\,m}\;
+\frac{R^{2}-2l^{2}}{\left(R^{2}+l^{2}\right)^{5/2}}
+}\,","\,\displaystyle 
+\omega_{z} = \sqrt{\frac{qQ_{0}}{2\pi\varepsilon_{0}\,m}\;
+\frac{R^{2}-2l^{2}}{\left(R^{2}+l^{2}\right)^{5/2}}
+}\,"
+MECHANICS/36,56.55172413793103,56.55172413793103,\sqrt{\frac{30\omega^2 + \frac{45Gm}{r^3}}{16\pi\rho G}},"\, e = \sqrt{\frac{5R^{3}}{2GM}\left(\,\omega^{2}+\frac{3Gm}{r^{3}}\right)}
+      \;=\;
+      \sqrt{\frac{15\,\omega^{2}}{8\pi G\rho}+\frac{45\,m}{8\pi\rho r^{3}}}\;","\, e = \sqrt{\frac{5R^{3}}{2GM}\left(\,\omega^{2}+\frac{3Gm}{r^{3}}\right)}
+      \;=\;
+      \sqrt{\frac{15\,\omega^{2}}{8\pi G\rho}+\frac{45\,m}{8\pi\rho r^{3}}}\;"
+ELECTRICITY/636,56.15384615384615,56.15384615384615,-\frac{3\pi R^2}{2r_0^2}\sqrt{\frac{4\pi\varepsilon_0 m r_0^3}{n Q q}},"\,T_{r}-T_{\varphi}\;=\;-\frac{3\pi R^{2}}{4}\,
+        \sqrt{\frac{4\pi\varepsilon_{0}\,m}{\,q\,n\,Q\,r_{0}}}\;","\,T_{r}-T_{\varphi}\;=\;-\frac{3\pi R^{2}}{4}\,
+        \sqrt{\frac{4\pi\varepsilon_{0}\,m}{\,q\,n\,Q\,r_{0}}}\;"
+MECHANICS/106,53.333333333333336,53.333333333333336,v = -\sqrt{3 g l \sin \theta_0},"\,v = \sqrt{3\,g\,l\,\sin\theta_{0}}\,","\,v = \sqrt{3\,g\,l\,\sin\theta_{0}}\,"
+MECHANICS/497,52.30769230769231,52.30769230769231,\Delta A = \frac{m A_0}{4M}\left[\frac{1}{3}(\gamma_1 - 1) + \gamma_2\right],"\;
+\Delta A \;=\; A_0\,\frac{m}{M}
+          \Bigl[\,\frac{\gamma_1-1}{12}\;+\;\frac{\gamma_2}{2}\Bigr]
+\;","\;
+\Delta A \;=\; A_0\,\frac{m}{M}
+          \Bigl[\,\frac{\gamma_1-1}{12}\;+\;\frac{\gamma_2}{2}\Bigr]
+\;"
+MODERN/259,51.666666666666664,51.666666666666664,\frac{2 v^2 t'^2 (1 - u^2/c^2)^{3/2}}{1 - (uv/c)^2},"\;A_{S'}(t') \;=\; \frac{ 2 v^{2}\, t'^{\,2} \left(1 - \dfrac{u^{2}}{c^{2}}\right)^{3/2} }{ 1 - \dfrac{u^{2} v^{2}}{c^{4}} } \;","\;A_{S'}(t') \;=\; \frac{ 2 v^{2}\, t'^{\,2} \left(1 - \dfrac{u^{2}}{c^{2}}\right)^{3/2} }{ 1 - \dfrac{u^{2} v^{2}}{c^{4}} } \;"
+OPTICS/708,51.30434782608695,51.30434782608695,x = \sqrt{\frac{2m}{k T}} \cdot \frac{L c \lambda_2}{2\pi d},"\;
+y_{\text{blur}} \;=\; \frac{c\,\lambda_{1}\,L}{\pi\sqrt{2}\,d}\;
+          \sqrt{\frac{m}{k_{B}T}}\;","\;
+y_{\text{blur}} \;=\; \frac{c\,\lambda_{1}\,L}{\pi\sqrt{2}\,d}\;
+          \sqrt{\frac{m}{k_{B}T}}\;"
+ELECTRICITY/65,48.23529411764706,48.23529411764706,\vec{v} = \vec{v_0} e^{-\frac{5\pi R B^2}{14m\lambda} t},"\,v(t)=v_0 \exp\!\left(-\frac{5\pi B^{2} R}{4\lambda m}\,t\right)\,","\,v(t)=v_0 \exp\!\left(-\frac{5\pi B^{2} R}{4\lambda m}\,t\right)\,"
+MECHANICS/54,46.666666666666664,46.666666666666664,T_2 = 2mg + 4m \frac{v_0^2}{l},"\,T_{\text{middle}} = 2m\left(g + \dfrac{v_{0}^{2}}{l}\right)\,","\,T_{\text{middle}} = 2m\left(g + \dfrac{v_{0}^{2}}{l}\right)\,"
+MECHANICS/285,45.714285714285715,45.714285714285715,F_{\max} = 5m\omega^2R,"F_{\text{max}} \;=\; 4\,m\,\omega^{2}\,R","F_{\text{max}} \;=\; 4\,m\,\omega^{2}\,R"
+ELECTRICITY/83,43.33333333333333,43.33333333333333,M = -\frac{27}{31} m B_0 \sin \alpha,"\;\tau \;=\; \dfrac{27}{31}\,m\,B_{0}\,\sin\alpha\;","\;\tau \;=\; \dfrac{27}{31}\,m\,B_{0}\,\sin\alpha\;"
+THERMODYNAMICS/72,43.33333333333333,43.33333333333333,l=0.20\frac{V_0}{S},"\,l = 0.19\,\dfrac{V_{0}}{S}\,","\,l = 0.19\,\dfrac{V_{0}}{S}\,"
+MECHANICS/674,41.81818181818181,41.81818181818181,\frac{3\sqrt{5}}{5}\sqrt{gr},"\,v_{0,\min}= \sqrt{\dfrac{4 g r}{3}}\,","\,v_{0,\min}= \sqrt{\dfrac{4 g r}{3}}\,"
+ADVANCED/458,41.25,41.25,$ Q = \frac{\sqrt{3} a^4 \Delta p}{320\eta l} $,"\, Q \;=\; \dfrac{\sqrt{3}\;a^{4}}{64\,\mu\,l}\;\Delta p \,","\, Q \;=\; \dfrac{\sqrt{3}\;a^{4}}{64\,\mu\,l}\;\Delta p \,"
+ELECTRICITY/453,39.54545454545455,39.54545454545455,$$ \alpha=\frac{N}{6\pi n\epsilon_0^2c^4}\frac{(\frac{\omega^2 e^2}{m})^2}{(\omega_0^2-\omega^2)^2+\gamma^2 \omega^2} $$,"\displaystyle 
+\alpha(\omega)=\frac{N e^{2}\,\gamma\,\omega^{2}}
+               {\,\varepsilon_{0}\,m\,c\,n\!\left[(\omega_{0}^{2}-\omega^{2})^{2}
+               +\gamma^{2}\omega^{2}\right]}","\displaystyle 
+\alpha(\omega)=\frac{N e^{2}\,\gamma\,\omega^{2}}
+               {\,\varepsilon_{0}\,m\,c\,n\!\left[(\omega_{0}^{2}-\omega^{2})^{2}
+               +\gamma^{2}\omega^{2}\right]}"
+THERMODYNAMICS/45,33.33333333333333,33.33333333333333,\sqrt{\frac{\gamma\mu}{\mu\rho - b\rho^2}\left(p + \frac{a}{\mu^2}\rho^2\right) - \frac{2a\rho}{\mu^2}},"\displaystyle
+c^{2}= \gamma\,\frac{\mu}{\rho\!\left(\mu-b\rho\right)}
+\left( p+\frac{a\rho^{2}}{\mu^{2}} \right)\;-\; \frac{2a\rho}{\mu^{2}}","\displaystyle
+c^{2}= \gamma\,\frac{\mu}{\rho\!\left(\mu-b\rho\right)}
+\left( p+\frac{a\rho^{2}}{\mu^{2}} \right)\;-\; \frac{2a\rho}{\mu^{2}}"
+OPTICS/498,31.604938271604937,31.604938271604937,\varphi = \frac{2\pi d}{\lambda (n_b - n_a)} \left[ n_b\sqrt{n_b^2 - \sin^2 i} - n_a\sqrt{n_a^2 - \sin^2 i} - \sin^2 i \ln \left( \frac{n_b + \sqrt{n_b^2 - \sin^2 i}}{n_a + \sqrt{n_a^2 - \sin^2 i}} \right) \right],"%
+\displaystyle
+\varphi=\frac{2\pi d}{\lambda\,(n_b-n_a)}
+\left[\, n_b\sqrt{\,n_b^{2}-\sin^{2} i\,}-n_a\sqrt{\,n_a^{2}-\sin^{2} i\,}
++3\sin^{2} i\;
+\ln\!\left(\frac{n_b+\sqrt{\,n_b^{2}-\sin^{2} i\,}}
+{\,n_a+\sqrt{\,n_a^{2}-\sin^{2} i\,}}\right)\right]","%
+\displaystyle
+\varphi=\frac{2\pi d}{\lambda\,(n_b-n_a)}
+\left[\, n_b\sqrt{\,n_b^{2}-\sin^{2} i\,}-n_a\sqrt{\,n_a^{2}-\sin^{2} i\,}
++3\sin^{2} i\;
+\ln\!\left(\frac{n_b+\sqrt{\,n_b^{2}-\sin^{2} i\,}}
+{\,n_a+\sqrt{\,n_a^{2}-\sin^{2} i\,}}\right)\right]"
+MODERN/310,30.285714285714285,30.285714285714285,\frac{\left(\sqrt{\frac{1+\beta_0}{1-\beta_0}}+\frac{2E}{mc^2}\right)^2 - 1}{\left(\sqrt{\frac{1+\beta_0}{1-\beta_0}}+\frac{2E}{mc^2}\right)^2 + 1},"\;
+\beta_{1}\;=\;\frac{\Bigl[\;\gamma_{0}\bigl(1+\beta_{0}\bigr)+\dfrac{2E}{mc^{2}}\Bigr]^{2}-1}{\Bigl[\;\gamma_{0}\bigl(1+\beta_{0}\bigr)+\dfrac{2E}{mc^{2}}\Bigr]^{2}+1}\;","\;
+\beta_{1}\;=\;\frac{\Bigl[\;\gamma_{0}\bigl(1+\beta_{0}\bigr)+\dfrac{2E}{mc^{2}}\Bigr]^{2}-1}{\Bigl[\;\gamma_{0}\bigl(1+\beta_{0}\bigr)+\dfrac{2E}{mc^{2}}\Bigr]^{2}+1}\;"
+ADVANCED/115,26.578947368421055,26.578947368421055,P'=\frac{n q^2 c}{6 \varepsilon_0 \sqrt{1-\beta^2}} \left[\frac{\omega^2 R^2 / c^2}{1-\omega^2 R^2 / c^2}+\ln\left(1-\frac{\omega^2 R^2}{c^2}\right)\right],"\displaystyle
+\frac{dP'}{dz} \;=\; \frac{n q^{2} c}{6 \varepsilon_{0}}
+\left[
+\frac{1}{1-\left(\dfrac{\omega R}{c}\right)^{2}}
+\;-\;
+\ln\!\Bigl(1-\left(\dfrac{\omega R}{c}\right)^{2}\Bigr)
+\;-\;1
+\right]","\displaystyle
+\frac{dP'}{dz} \;=\; \frac{n q^{2} c}{6 \varepsilon_{0}}
+\left[
+\frac{1}{1-\left(\dfrac{\omega R}{c}\right)^{2}}
+\;-\;
+\ln\!\Bigl(1-\left(\dfrac{\omega R}{c}\right)^{2}\Bigr)
+\;-\;1
+\right]"
+ELECTRICITY/333,22.545454545454547,22.545454545454547,\beta = \frac{2M}{mR^2 + 4\mu_0 P_0^2 \pi L \left(\frac{3}{8k^4} + \left(\frac{R^3}{2k} - \frac{3R^2}{4k^2} + \frac{3R}{4k^3} - \frac{3}{8k^4}\right)e^{2kR}\right)},"\displaystyle
+\beta \;=\; 
+\frac{M}{
+\frac{1}{2}\,m R^{2}\;+\;
+2\pi\mu_{0}L\,\frac{P_{0}^{2}}{k^{4}}
+\left[
+e^{2kR}\!\left(\frac{1}{2}k^{2}R^{2}-\frac{3}{2}kR+\frac{7}{4}\right)
++2e^{kR}+\frac{1}{4}
+\right]}","\displaystyle
+\beta \;=\; 
+\frac{M}{
+\frac{1}{2}\,m R^{2}\;+\;
+2\pi\mu_{0}L\,\frac{P_{0}^{2}}{k^{4}}
+\left[
+e^{2kR}\!\left(\frac{1}{2}k^{2}R^{2}-\frac{3}{2}kR+\frac{7}{4}\right)
++2e^{kR}+\frac{1}{4}
+\right]}"
+ELECTRICITY/603,22.5,22.5,\varepsilon = 1 - \frac{ne^2}{\varepsilon_0 m \omega^2},"\; \displaystyle \varepsilon(\omega)=\varepsilon_{0}\!\left(1-\frac{\omega_{p}^{2}}{\omega^{2}}\right),\qquad 
+\omega_{p}^{2}=\frac{n e^{2}}{\varepsilon_{0} m}\;","\; \displaystyle \varepsilon(\omega)=\varepsilon_{0}\!\left(1-\frac{\omega_{p}^{2}}{\omega^{2}}\right),\qquad 
+\omega_{p}^{2}=\frac{n e^{2}}{\varepsilon_{0} m}\;"
+MECHANICS/450,17.333333333333336,17.333333333333336,\beta=4A \sqrt{A^2 - B^2}  g\frac{2A^{4}+2A^{3}\sqrt{A^2 - B^2}-A^{3}B+B^{4}}{(2A^{3}+B^{3})^{2}B},"\displaystyle 
+\beta=\frac{g\,e}
+           {A\!\left[1+\dfrac{1}{2}(1-e^{2})^{3/2}\right]}
+     \;=\;
+     \frac{g\,
+          \sqrt{1-\dfrac{B^{2}}{A^{2}}}}
+          {A\left[1+\dfrac{1}{2}\left(\dfrac{B}{A}\right)^{3}\right]}","\displaystyle 
+\beta=\frac{g\,e}
+           {A\!\left[1+\dfrac{1}{2}(1-e^{2})^{3/2}\right]}
+     \;=\;
+     \frac{g\,
+          \sqrt{1-\dfrac{B^{2}}{A^{2}}}}
+          {A\left[1+\dfrac{1}{2}\left(\dfrac{B}{A}\right)^{3}\right]}"
+ELECTRICITY/443,13.846153846153847,13.846153846153847,\lambda=\sqrt{\frac{\varepsilon_{1}+\varepsilon_{21}}{\varepsilon_{1}\varepsilon_{21}}}\lambda_{0},"\;
+R_1=\frac{\varepsilon _1\varepsilon _{21}}{\varepsilon _1+\varepsilon _{21}},\qquad
+R_2=\frac{\varepsilon _1^{\,2}\varepsilon _{22}}{(\varepsilon _1+\varepsilon _{21})^{2}}\;","\;
+R_1=\frac{\varepsilon _1\varepsilon _{21}}{\varepsilon _1+\varepsilon _{21}},\qquad
+R_2=\frac{\varepsilon _1^{\,2}\varepsilon _{22}}{(\varepsilon _1+\varepsilon _{21})^{2}}\;"
+OPTICS/331,12.5,12.5,\Delta y = \frac{1 + \tan^2(2\phi)}{\sin\phi} \frac{\lambda L}{d},"\displaystyle \Delta y = \frac{L\,\lambda\,\sin\phi}{d}","\displaystyle \Delta y = \frac{L\,\lambda\,\sin\phi}{d}"
+MECHANICS/650,11.42857142857143,11.42857142857143,\frac{2}{\pi}\sqrt{\frac{E_0 R}{m g}}\sqrt{(\pi-2)^2\frac{R}{L}+2},"\, d_{\max } \;=\; \sqrt{\dfrac{2\,E_{0}\,R}{m\,g}}\;","\, d_{\max } \;=\; \sqrt{\dfrac{2\,E_{0}\,R}{m\,g}}\;"
+ELECTRICITY/649,11.162790697674417,11.162790697674417,\frac{2\pi}{\mu_0 R^2} \sqrt{\frac{m(R^2 - 2l^2)(R^2 + l^2)^{1/2}}{\pi \varepsilon_0 Q q}},"\;
+\alpha \;=\;\frac{1}{4\pi\varepsilon_0}\;
+            \frac{Q_0\,(R^{2}-2l^{2})}{(R^{2}+l^{2})^{5/2}}
+        \;","\;
+\alpha \;=\;\frac{1}{4\pi\varepsilon_0}\;
+            \frac{Q_0\,(R^{2}-2l^{2})}{(R^{2}+l^{2})^{5/2}}
+        \;"
+ELECTRICITY/478,10.0,10.0,$$ F=\frac{1}{\varepsilon_{r}}QE_{0} $$,"\, F = Q\,E_{0} \,","\, F = Q\,E_{0} \,"
+MODERN/88,9.714285714285708,9.714285714285708,w=\frac{\lambda N_0 E_0}{4\pi}\frac{\left(1-\left(\frac{v}{c}\right)^2\right)^2}{\left(1-\frac{v}{c}\cos\theta\right)^3}e^{-\frac{4\lambda}{7}},"\displaystyle
+w(\theta,t)=\frac{\lambda N_{0} E_{0}}{4\pi\,\gamma^{4}\!\left(1-\dfrac{v}{c}\cos\theta\right)^{3}}\,\exp\!\left(-\frac{\lambda t}{\gamma}\right)","\displaystyle
+w(\theta,t)=\frac{\lambda N_{0} E_{0}}{4\pi\,\gamma^{4}\!\left(1-\dfrac{v}{c}\cos\theta\right)^{3}}\,\exp\!\left(-\frac{\lambda t}{\gamma}\right)"
+MECHANICS/766,7.368421052631582,7.368421052631582,T = \frac{5 + \cos^2 \theta}{(1 + \cos^2 \theta)^2} m g \sin \theta,"\,T \;=\; m g\,\sin\theta\;\dfrac{6-\sin^{2}\theta}{\,2-\sin^{2}\theta}\,","\,T \;=\; m g\,\sin\theta\;\dfrac{6-\sin^{2}\theta}{\,2-\sin^{2}\theta}\,"
+MECHANICS/654,6.046511627906973,6.046511627906973,\frac{2nSmc(v_{1}-v_{2})^{2}}{(1-\left(\frac{v_1}{c}\right)^2)\sqrt{1-\left(\frac{v_2}{c}\right)^2}h\nu_{0}},"\,N' \;=\; \frac{2\,m\,n\,S\,c\,(v_{1}-v_{2})^{2}}{h\,\nu_{0}\,\bigl(1-\dfrac{v_{1}^{2}}{c^{2}}\bigr)\,\bigl(1-\dfrac{v_{2}^{2}}{c^{2}}\bigr)} \;=\; 
+\frac{2\,m\,n\,S\,c\,( \gamma_{1}\gamma_{2})^{2}\,(v_{1}-v_{2})^{2}}{h\,\nu_{0}}\,","\,N' \;=\; \frac{2\,m\,n\,S\,c\,(v_{1}-v_{2})^{2}}{h\,\nu_{0}\,\bigl(1-\dfrac{v_{1}^{2}}{c^{2}}\bigr)\,\bigl(1-\dfrac{v_{2}^{2}}{c^{2}}\bigr)} \;=\; 
+\frac{2\,m\,n\,S\,c\,( \gamma_{1}\gamma_{2})^{2}\,(v_{1}-v_{2})^{2}}{h\,\nu_{0}}\,"
+MECHANICS/110,5.0,5.0,\alpha = \arctan\left(\frac{\sqrt{c^4 - d^2(a^2 - c^2)}}{ad}\right),"\displaystyle 
+\alpha \;=\; \arccos\!\left( \frac{a\,d}{\,c\sqrt{\,c^{2}+d^{2}\,}} \right)","\displaystyle 
+\alpha \;=\; \arccos\!\left( \frac{a\,d}{\,c\sqrt{\,c^{2}+d^{2}\,}} \right)"
+MODERN/221,2.4528301886792434,2.4528301886792434,t=\frac{1}{\rho A}\sqrt{\frac{\left(\frac{k R_{0}^{2}}{m_{0}c^{2}}+\sqrt{\left(\frac{k R_{0}^{2}}{m_{0}c^{2}}\right)^{2}+4}\right)m R_{0}^{4}}{2k}}\left(\frac{k}{c^{2}}\left(-\frac{1}{R}+\frac{1}{R_{0}}\right)+\frac{4}{7}\frac{\left(\frac{k R_{0}^{2}}{m_{0}c^{2}}+\sqrt{\left(\frac{k R_{0}^{2}}{m_{0}c^{2}}\right)^{2}+4}\right)m R_{0}^{4}}{2}\left(\frac{1}{R^{7}}-\frac{1}{R_{0}^{7}}\right)\right),"\, t \;=\; \frac{4\,m_{0}^{3/2}}{7\,\rho\,A\,R_{0}\,\sqrt{k}}\;
+         \left[\left(\frac{R_{0}}{R}\right)^{7}-1\right]\,","\, t \;=\; \frac{4\,m_{0}^{3/2}}{7\,\rho\,A\,R_{0}\,\sqrt{k}}\;
+         \left[\left(\frac{R_{0}}{R}\right)^{7}-1\right]\,"
+MECHANICS/139,0.9090909090909065,0.9090909090909065,\varphi = \arctan \frac{P_2 - P_1 \cos(2\beta)}{P_1 \sin(2\beta)},\displaystyle \tan\varphi=\frac{P_{2}-P_{1}\cos 2\beta}{P_{1}\sin 2\beta},\displaystyle \tan\varphi=\frac{P_{2}-P_{1}\cos 2\beta}{P_{1}\sin 2\beta}
+OPTICS/495,0,0,v = \frac{NZ e^3}{2c\varepsilon_0 m^2 n} \cdot \frac{\omega^2}{(\omega_0^2 - \omega^2)^2},"\displaystyle 
+V(\omega)\;=\;\frac{e\,\omega}{2 m c}\;
+\frac{n^{2}(\omega)-1}{\;\omega_{0}^{2}-\omega^{2}}\;
+=\;-\frac{e\,\lambda}{2 m c}\,\frac{d n}{d\lambda}","\displaystyle 
+V(\omega)\;=\;\frac{e\,\omega}{2 m c}\;
+\frac{n^{2}(\omega)-1}{\;\omega_{0}^{2}-\omega^{2}}\;
+=\;-\frac{e\,\lambda}{2 m c}\,\frac{d n}{d\lambda}"
+OPTICS/600,0,0,\gamma = \frac{2}{5},V = 0.40 \; \text{(40 % visibility)},V = 0.40 \; \text{(40 % visibility)}
+THERMODYNAMICS/33,0,0,p(\theta) = (\sigma T_2^4 - \sigma T_1^4) \frac{r(R - b \cos \theta)}{R^2 + b^2 - 2Rb \cos \theta},"\,%
+p(\theta)=\sigma\,(T_{1}^{4}-T_{2}^{4})\;
+           \frac{r}{R}\;
+           \frac{\sqrt{\,\bigl[R^{2}-(b+r)^{2}\bigr]
+                            \bigl[R^{2}-(b-r)^{2}\bigr]\,}}
+                {\,R^{2}+b^{2}-r^{2}-2Rb\cos\theta\,}\,","\,%
+p(\theta)=\sigma\,(T_{1}^{4}-T_{2}^{4})\;
+           \frac{r}{R}\;
+           \frac{\sqrt{\,\bigl[R^{2}-(b+r)^{2}\bigr]
+                            \bigl[R^{2}-(b-r)^{2}\bigr]\,}}
+                {\,R^{2}+b^{2}-r^{2}-2Rb\cos\theta\,}\,"
+THERMODYNAMICS/281,0,0,\sqrt{\frac{2\sigma}{\rho g}(1-\sin \theta)},"\;
+\frac{\sigma\,z''}{\bigl(1+z'^{2}\bigr)^{3/2}}=\rho g z
+\;","\;
+\frac{\sigma\,z''}{\bigl(1+z'^{2}\bigr)^{3/2}}=\rho g z
+\;"
+MECHANICS/95,0,0,x=-\frac{7F,"\,%
+x(t)=\frac{F}{10\,M\,\Omega^{2}}
+\left[
+-1
++\frac{\sqrt{11}-1}{2\sqrt{11}}\,
+\cos\!\bigl[(1+\sqrt{11})\Omega\,t\bigr]
++\frac{\sqrt{11}+1}{2\sqrt{11}}\,
+\cos\!\bigl[(\sqrt{11}-1)\Omega\,t\bigr]
+\right]
+\,","\,%
+x(t)=\frac{F}{10\,M\,\Omega^{2}}
+\left[
+-1
++\frac{\sqrt{11}-1}{2\sqrt{11}}\,
+\cos\!\bigl[(1+\sqrt{11})\Omega\,t\bigr]
++\frac{\sqrt{11}+1}{2\sqrt{11}}\,
+\cos\!\bigl[(\sqrt{11}-1)\Omega\,t\bigr]
+\right]
+\,"
+MECHANICS/101,0,0,A = \frac{25 \sqrt{2}}{204} \theta_0,"\displaystyle
+\eta(t)=\bigg[\frac{I_{\text{arm}}}{I_{\text{leg}}}\,
+\frac{\omega^{2}}{\sqrt{(\omega_{0}^{2}-\omega^{2})^{2}+4\zeta^{2}\omega^{2}\omega_{0}^{2}}}\bigg]
+\theta_{0}\,\sin(\omega t-\delta)","\displaystyle
+\eta(t)=\bigg[\frac{I_{\text{arm}}}{I_{\text{leg}}}\,
+\frac{\omega^{2}}{\sqrt{(\omega_{0}^{2}-\omega^{2})^{2}+4\zeta^{2}\omega^{2}\omega_{0}^{2}}}\bigg]
+\theta_{0}\,\sin(\omega t-\delta)"
+MECHANICS/134,0,0,\frac{v_1 v_2}{L},"\,|{\bf a}_{\text{hound}}| = \dfrac{v_{1} \, v_{2}}{L}\,","\,|{\bf a}_{\text{hound}}| = \dfrac{v_{1} \, v_{2}}{L}\,"
+MECHANICS/332,0,0,\mu = \frac{MR^2 \sin\varphi \sin\left(\arccos\frac{L^2 + d^2 - R^2}{2L d} + \arccos\frac{R^2 + d^2 - L^2}{2R d}\right)}{\sqrt{\left(\frac{L^2 + d^2 - R^2}{2 L d}\right)^2 \left[ M R^2 \cos\varphi + m L^2 \sin^2\left(\arccos\frac{L^2 + d^2 - R^2}{2L d}\right) \left(\frac{3}{2} \cos\varphi - 1\right)\right]^2 + \left[ M R^2 \sin\varphi \cos\left(\arccos\frac{L^2 + d^2 - R^2}{2L d} + \arccos\frac{R^2 + d^2 - L^2}{2R d}\right)\right]^2 }},"\,\rho\equiv OP_{\perp}=R\sin\theta\,","\,\rho\equiv OP_{\perp}=R\sin\theta\,"
+ELECTRICITY/250,0,0,i(t)=\frac{U}{r_0\left(1+\frac{2\arccosh(D/R)}{\pi r_0 L(\sigma_1+\sigma_2)}\right)}\left(2+\frac{2\arccosh(D/R)}{\pi r_0 L(\sigma_1+\sigma_2)}-\exp\left[-\left(\frac{\sigma_1+\sigma_2}{\varepsilon_1+\varepsilon_2}+\frac{2\arccosh(D/R)}{\pi r_0 L(\varepsilon_1+\varepsilon_2)}\right)t\right]\right),"\,%
+i(t)=
+\frac{U}{\,r_{0}+ \dfrac{2\,g}{\pi L\left(\sigma_{1}+\sigma_{2}\right)}}
+\left[1+ \frac{ \dfrac{2\,g}{\pi L\left(\sigma_{1}+\sigma_{2}\right)} }{r_{0}}\,
+e^{-t/\tau}\right],\qquad t\ge 0","\,%
+i(t)=
+\frac{U}{\,r_{0}+ \dfrac{2\,g}{\pi L\left(\sigma_{1}+\sigma_{2}\right)}}
+\left[1+ \frac{ \dfrac{2\,g}{\pi L\left(\sigma_{1}+\sigma_{2}\right)} }{r_{0}}\,
+e^{-t/\tau}\right],\qquad t\ge 0"
+ELECTRICITY/409,0,0,\sigma=\frac{2\varepsilon_{0,"\,\sigma(\rho)=
+\begin{cases}
+2\,\varepsilon_{0}\,E_{0}, & 0\le\rho<a,\\[4pt]
+0, & \rho\ge a.
+\end{cases}","\,\sigma(\rho)=
+\begin{cases}
+2\,\varepsilon_{0}\,E_{0}, & 0\le\rho<a,\\[4pt]
+0, & \rho\ge a.
+\end{cases}"
+MECHANICS/133,0,0,\frac{v^3}{R v_x},"\; \vec a\;=\;\dfrac{v^{2}}{R}\,\mathbf{n}, \qquad |\vec a|=\dfrac{v^{2}}{R},\qquad a_x=0\;","\; \vec a\;=\;\dfrac{v^{2}}{R}\,\mathbf{n}, \qquad |\vec a|=\dfrac{v^{2}}{R},\qquad a_x=0\;"
+MECHANICS/336,0,0,f=\frac{1}{2\pi}\sqrt{\frac{4g(b+R-\frac{b^2R}{a^2})}{(a^2+5b^2)\left(\frac{bR}{a^2}-1\right)}},"\;
+f=\frac{1}{2\pi}\,
+\sqrt{\,
+\frac{\,g\,(R-b)\,}
+{\,(R-b)^{2}+\dfrac{(a^{2}+b^{2})R^{2}b^{2}}{4a^{4}}}\;}","\;
+f=\frac{1}{2\pi}\,
+\sqrt{\,
+\frac{\,g\,(R-b)\,}
+{\,(R-b)^{2}+\dfrac{(a^{2}+b^{2})R^{2}b^{2}}{4a^{4}}}\;}"
+ELECTRICITY/105,0,0,\lambda = -c,\lambda = -1,\lambda = -1
+MECHANICS/617,0,0,\omega_\infty = \frac{l}{h} \sqrt{\frac{g}{2h}},"%
+\displaystyle 
+\omega_{\infty}= \sqrt{\,\frac{3g}{h}\;
+\frac{\bigl(1-\cos\theta_c\bigr)\cos^{2}\theta_c}
+           {\,1+\cos^{2}\theta_c+\cos^{4}\theta_c}}\;","%
+\displaystyle 
+\omega_{\infty}= \sqrt{\,\frac{3g}{h}\;
+\frac{\bigl(1-\cos\theta_c\bigr)\cos^{2}\theta_c}
+           {\,1+\cos^{2}\theta_c+\cos^{4}\theta_c}}\;"
+MECHANICS/457,0,0,$$ {\omega}=\sqrt{\frac{8F\sin\displaystyle\frac{\pi}{N}(9-5\tan^{2}\displaystyle\frac{\pi}{N})^{2}}{m l(2+\displaystyle\frac{1}{3}\sin^{2}\displaystyle\frac{\pi}{N}+\cos^{2}\displaystyle\frac{\pi}{N})((9+7\tan^{2}\displaystyle\frac{\pi}{N})^{2}-(9-5\tan^{2}\displaystyle\frac{\pi}{N})^{2})}} $$,"%
+\displaystyle
+\omega
+=2\sqrt{\frac{F\sin(\pi/N)}{m l}}\;
+\frac{1+\dfrac{π}{N\sin(2π/N)}-2\sin(\tfrac{π}{N})\sin(\tfrac{3π}{N})}
+     {\sqrt{
+        \Bigl(1+\dfrac{π}{N\sin(2π/N)}\Bigr)\,
+        2\sin(\tfrac{π}{N})\sin(\tfrac{3π}{N})\,
+        \Bigl[2\!\left(1+\dfrac{π}{N\sin(2π/N)}\right)
+               -2\sin(\tfrac{π}{N})\sin(\tfrac{3π}{N})\Bigr]}}","%
+\displaystyle
+\omega
+=2\sqrt{\frac{F\sin(\pi/N)}{m l}}\;
+\frac{1+\dfrac{π}{N\sin(2π/N)}-2\sin(\tfrac{π}{N})\sin(\tfrac{3π}{N})}
+     {\sqrt{
+        \Bigl(1+\dfrac{π}{N\sin(2π/N)}\Bigr)\,
+        2\sin(\tfrac{π}{N})\sin(\tfrac{3π}{N})\,
+        \Bigl[2\!\left(1+\dfrac{π}{N\sin(2π/N)}\right)
+               -2\sin(\tfrac{π}{N})\sin(\tfrac{3π}{N})\Bigr]}}"
+ELECTRICITY/432,0,0,$$ h={\sqrt{\frac{-Q^{2}+{\sqrt{Q^{4}+{\frac{96\pi\varepsilon_{0}^{2}m g\mu_{0}Q^{2}R^{4}\omega^{2}}{25}}}}}{32\pi\varepsilon_{0}m g}}} $$,"\, h=\left( \frac{3\,\mu_{0}\,Q^{2}\,\omega^{2}\,R^{4}}{400\,\pi \, m\, g}\right)^{1/4}\,","\, h=\left( \frac{3\,\mu_{0}\,Q^{2}\,\omega^{2}\,R^{4}}{400\,\pi \, m\, g}\right)^{1/4}\,"
+OPTICS/284,0,0,\varphi=2\arctan\left(\frac{\sqrt{\sin^2\theta-\left(1+\frac{\delta n}{n}\right)^2}}{\cos\theta}\right),"\displaystyle
+\varphi \;=\; 2\,\arctan\!\left[\,
+\frac{\sqrt{\;\sin^{2}\theta-\left(\dfrac{n_2}{n_1}\right)^{2}}}{\cos\theta}\,
+\right]
+\;=\;
+2\,\arctan\!\left[\,
+\frac{\sqrt{\;\sin^{2}\theta-\left(\dfrac{\,n+\delta n}{\,n}\right)^{2}}}{\cos\theta}\,
+\right]\;, \qquad (\text{for } \sin\theta > n_2/n_1)","\displaystyle
+\varphi \;=\; 2\,\arctan\!\left[\,
+\frac{\sqrt{\;\sin^{2}\theta-\left(\dfrac{n_2}{n_1}\right)^{2}}}{\cos\theta}\,
+\right]
+\;=\;
+2\,\arctan\!\left[\,
+\frac{\sqrt{\;\sin^{2}\theta-\left(\dfrac{\,n+\delta n}{\,n}\right)^{2}}}{\cos\theta}\,
+\right]\;, \qquad (\text{for } \sin\theta > n_2/n_1)"
+ELECTRICITY/55,0,0,-\frac{3(\varepsilon_r-1)V\lambda^2}{4\pi^2(\varepsilon_r+2)r^3},"\, |\mathbf{F}(r)|=\frac{3\,\lambda^{2}\,V}{4\pi^{2}\,\varepsilon_{0}}\;
+\frac{\varepsilon_{r}-1}{\varepsilon_{r}+2}\;\frac{1}{r^{3}}
+\quad\text{(directed radially toward the line for }\varepsilon_{r}>1)\,","\, |\mathbf{F}(r)|=\frac{3\,\lambda^{2}\,V}{4\pi^{2}\,\varepsilon_{0}}\;
+\frac{\varepsilon_{r}-1}{\varepsilon_{r}+2}\;\frac{1}{r^{3}}
+\quad\text{(directed radially toward the line for }\varepsilon_{r}>1)\,"
+OPTICS/419,0,0,R_{s}=\left(1+\left(\frac{2\mathrm{e}^{-\frac{2\pi d}{\lambda}\sqrt{\mathrm{sin}i_2^2-n^2}}}{1 - \mathrm{e}^{-\frac{4\pi d}{\lambda}\sqrt{\mathrm{sin}i_2^2-n^2}}}\frac{2\sqrt{(1 - \sin^{2}i_{2})(\sin^{2}i_{2}-n^{2})}}{1 - n^{2}}\right)^{2}\right)^{-1},"\displaystyle
+R_{s} \;=\;
+\frac{\sinh^{2}\!\left[\dfrac{2\pi d}{\lambda}\,
+\sqrt{\sin^{2} i_{2}-n^{2}}\right]}
+     {\; \sinh^{2}\!\left[\dfrac{2\pi d}{\lambda}\,
+       \sqrt{\sin^{2} i_{2}-n^{2}}\right]
+      \;+\;
+      \dfrac{4\cos^{2} i_{2}\,
+             \bigl(\sin^{2} i_{2}-n^{2}\bigr)}
+            {(1-n^{2})^{2}}}","\displaystyle
+R_{s} \;=\;
+\frac{\sinh^{2}\!\left[\dfrac{2\pi d}{\lambda}\,
+\sqrt{\sin^{2} i_{2}-n^{2}}\right]}
+     {\; \sinh^{2}\!\left[\dfrac{2\pi d}{\lambda}\,
+       \sqrt{\sin^{2} i_{2}-n^{2}}\right]
+      \;+\;
+      \dfrac{4\cos^{2} i_{2}\,
+             \bigl(\sin^{2} i_{2}-n^{2}\bigr)}
+            {(1-n^{2})^{2}}}"
+ELECTRICITY/206,0,0,\frac{V_0}{\ln\left(\frac{\tan\left(\frac{\alpha_2}{2}\right)}{\tan\left(\frac{\alpha_1}{2}\right)}\right)}\ln\left(\frac{\tan\left(\frac{\alpha}{2}\right)}{\tan\left(\frac{\alpha_1}{2}\right)}\right),"\displaystyle
+V(\alpha)=V_{0}\,
+\frac{ \ln\!\bigl[ \tan(\alpha/2)\big/\tan(\alpha_{1}/2)\bigr] }
+     { \ln\!\bigl[ \tan(\alpha_{2}/2)\big/\tan(\alpha_{1}/2)\bigr] },\qquad
+\alpha_{1}\le \alpha \le \alpha_{2}","\displaystyle
+V(\alpha)=V_{0}\,
+\frac{ \ln\!\bigl[ \tan(\alpha/2)\big/\tan(\alpha_{1}/2)\bigr] }
+     { \ln\!\bigl[ \tan(\alpha_{2}/2)\big/\tan(\alpha_{1}/2)\bigr] },\qquad
+\alpha_{1}\le \alpha \le \alpha_{2}"
+ELECTRICITY/71,0,0,v_E = \frac{E \times B}{B^2} \left(1 - \frac{1}{4} \left(k \frac{m v_\perp}{|q| B}\right)^2 \right),"\;
+\pmb{V}_{\rm gc}= -\,\hat{\pmb{y}}\,\frac{E_{0}}{B}\,
+\cos(k y_{0})\!\left[\,1-\frac{k^{2}v_{\perp}^{2}}{4\Omega^{2}}\right]
+\quad\bigl(\;\text{or } -\dfrac{E_{0}}{B}\cos(k y_{0})\,J_{0}(k\rho_{L})\,\hat{\pmb{y}}\text{ for all }k\rho_{L}\bigr)\;","\;
+\pmb{V}_{\rm gc}= -\,\hat{\pmb{y}}\,\frac{E_{0}}{B}\,
+\cos(k y_{0})\!\left[\,1-\frac{k^{2}v_{\perp}^{2}}{4\Omega^{2}}\right]
+\quad\bigl(\;\text{or } -\dfrac{E_{0}}{B}\cos(k y_{0})\,J_{0}(k\rho_{L})\,\hat{\pmb{y}}\text{ for all }k\rho_{L}\bigr)\;"
+MODERN/256,0,0,E_1 = \frac{\sqrt{3}}{8}Mc^2,"\displaystyle E_{1}=\,\frac{753}{15\,872}\; M\,c^{2}\;
+       =\;\frac{3M c^{2}}{64}\!\left(1+\frac{3}{248}\right)","\displaystyle E_{1}=\,\frac{753}{15\,872}\; M\,c^{2}\;
+       =\;\frac{3M c^{2}}{64}\!\left(1+\frac{3}{248}\right)"
+MECHANICS/505,0,0,y^{2,"\,y^{2}=R^{2}-\dfrac{g^{2}}{\omega^{4}}-x^{2}\,","\,y^{2}=R^{2}-\dfrac{g^{2}}{\omega^{4}}-x^{2}\,"
+ELECTRICITY/737,0,0,\frac{2\pi}{\sqrt{n+1}} \frac{m}{q B_0},"\displaystyle T_{\text{radial}} = \frac{2\pi m}{q B_0 \sqrt{\,n+1\,}}\qquad (\,n>-1\,)","\displaystyle T_{\text{radial}} = \frac{2\pi m}{q B_0 \sqrt{\,n+1\,}}\qquad (\,n>-1\,)"
+MECHANICS/420,0,0,$$ \theta=\theta_{0}\frac{x_{0}}{x} $$,\;\; \theta(x) \;=\; \theta_0\left(\dfrac{x_0}{x}\right)^{\!3/4} \;,\;\; \theta(x) \;=\; \theta_0\left(\dfrac{x_0}{x}\right)^{\!3/4} \;
+ELECTRICITY/688,0,0,T = \frac{2\pi m}{q B_0 \sqrt{n+1}},"\, T = \dfrac{2\pi\,m}{|q|\,B_{0}\,\sqrt{\,n+1\,}}\qquad ( \;n>-1\;)\,","\, T = \dfrac{2\pi\,m}{|q|\,B_{0}\,\sqrt{\,n+1\,}}\qquad ( \;n>-1\;)\,"
+MECHANICS/318,0,0,F = -\pi R^2 h \gamma P_0 k^2 A \cos(kx) \cos(2\pi ft),"\,F(x,t)=\pi R^{2}\,\gamma P_{0}\,A\,k\bigl[\sin(kx)-\sin\bigl(k(x+h)\bigr)\bigr]\cos(2\pi f t)
+\; \simeq\; -\pi R^{2}\gamma P_{0}A k^{2}h\cos(kx)\cos(2\pi f t)\; \text{for }kh\ll1\,","\,F(x,t)=\pi R^{2}\,\gamma P_{0}\,A\,k\bigl[\sin(kx)-\sin\bigl(k(x+h)\bigr)\bigr]\cos(2\pi f t)
+\; \simeq\; -\pi R^{2}\gamma P_{0}A k^{2}h\cos(kx)\cos(2\pi f t)\; \text{for }kh\ll1\,"
+MECHANICS/401,0,0,\varphi=\frac{2k^{2,"\,\displaystyle \varphi = \frac{2 k^{2}\,\theta}{1-\varepsilon}\,","\,\displaystyle \varphi = \frac{2 k^{2}\,\theta}{1-\varepsilon}\,"
+ELECTRICITY/493,0,0,T_{1}= 2\pi\sqrt{\frac{2M(h^{2}+R^{2})^{7/2}}{\mu_{0}mI(2h^{4}+2R^{4}-11R^{2}h^{2})}},"\displaystyle 
+\mathbf B_{\text{dip}}(z)=\frac{\mu _0}{4\pi }\,
+\frac{2m}{z^{3}}\;\mathbf {\hat z}","\displaystyle 
+\mathbf B_{\text{dip}}(z)=\frac{\mu _0}{4\pi }\,
+\frac{2m}{z^{3}}\;\mathbf {\hat z}"
+ELECTRICITY/131,0,0,m' = \frac{R^3}{a^3} m,"\;|m'| = \dfrac{R^{3}}{a^{3}}\,|m|\quad\text{(directed opposite to }m)\;","\;|m'| = \dfrac{R^{3}}{a^{3}}\,|m|\quad\text{(directed opposite to }m)\;"
+MECHANICS/709,0,0,\delta \omega = -\frac{2}{m^2+1} \Omega,\displaystyle \delta\omega = \Omega,\displaystyle \delta\omega = \Omega
+THERMODYNAMICS/423,0,0,$$ S_{D}-S_{A}=\frac{3p_Av_A}{T_A}\left(\left(\frac{p_Dv_D^2}{p_Av_A^2}\right)^{\frac{1}{3}}-1\right) $$,"\, S_D - S_A = 3\!\left(\frac{p_D v_D}{T_D}-\frac{p_A v_A}{T_A}\right)\,","\, S_D - S_A = 3\!\left(\frac{p_D v_D}{T_D}-\frac{p_A v_A}{T_A}\right)\,"
+THERMODYNAMICS/120,0,0,\eta=\frac{\gamma-1}{2\sqrt{\gamma p_0 V_0/W}-1},"%
+\eta_{\text{max}}=
+\begin{cases}
+\dfrac{\gamma-1}{\,(\gamma-1)+2\sqrt{\dfrac{\gamma p_{0}V_{0}}{W}}}, & W\le\dfrac{p_{0}V_{0}}{4\gamma},\\[1.4ex]
+\dfrac{\gamma-1}{\,(\gamma-1)+\dfrac{p_{0}V_{0}}{W}},              & \dfrac{p_{0}V_{0}}{4\gamma}<W<p_{0}V_{0},\\[2.0ex]
+1-\dfrac1{\gamma},                                                 & W\ge p_{0}V_{0}.
+\end{cases}","%
+\eta_{\text{max}}=
+\begin{cases}
+\dfrac{\gamma-1}{\,(\gamma-1)+2\sqrt{\dfrac{\gamma p_{0}V_{0}}{W}}}, & W\le\dfrac{p_{0}V_{0}}{4\gamma},\\[1.4ex]
+\dfrac{\gamma-1}{\,(\gamma-1)+\dfrac{p_{0}V_{0}}{W}},              & \dfrac{p_{0}V_{0}}{4\gamma}<W<p_{0}V_{0},\\[2.0ex]
+1-\dfrac1{\gamma},                                                 & W\ge p_{0}V_{0}.
+\end{cases}"
+MODERN/121,0,0,u = c^2 \frac{\left| \sqrt{c^2 - v_1^2} - \sqrt{c^2 - v_1^2} \right|}{\sqrt{c^2 (v_1^2 + v_2^2) - 2 v_1^2 v_2^2 - 2 v_1 v_2 \cos \alpha \sqrt{(c^2 - v_1^2)(c^2 - v_2^2)}}},"\, u_{\min}= c\,
+           \dfrac{\gamma_1-\gamma_2}
+                 {\sqrt{\gamma_1^{2}\dfrac{v_1^{2}}{c^{2}}
+                         +\gamma_2^{2}\dfrac{v_2^{2}}{c^{2}}
+                         -2\gamma_1\gamma_2\dfrac{v_1 v_2}{c^{2}}\cos\alpha } } \;, \qquad
+           \gamma_i=\frac{1}{\sqrt{1-v_i^{2}/c^{2}}}\; (i=1,2)","\, u_{\min}= c\,
+           \dfrac{\gamma_1-\gamma_2}
+                 {\sqrt{\gamma_1^{2}\dfrac{v_1^{2}}{c^{2}}
+                         +\gamma_2^{2}\dfrac{v_2^{2}}{c^{2}}
+                         -2\gamma_1\gamma_2\dfrac{v_1 v_2}{c^{2}}\cos\alpha } } \;, \qquad
+           \gamma_i=\frac{1}{\sqrt{1-v_i^{2}/c^{2}}}\; (i=1,2)"
+MECHANICS/648,0,0,\sqrt{\frac{2kQq}{mR} \cdot \frac{1-\cos\left(\frac{\pi}{n}\right)}{2\cos\left(\frac{\pi}{n}\right)-1}},"\displaystyle 
+v_{\min} = 
+\sqrt{ \frac{ 4\,k_e\,Q\,q }{ m\,R } }\;
+\frac{ \sin \bigl( \dfrac{\pi}{2n} \bigr) }
+     { \sqrt{ 1 - 4 \sin^{2}\bigl( \dfrac{\pi}{2n} \bigr) } } ,
+\qquad\text{valid for } n\ge 4","\displaystyle 
+v_{\min} = 
+\sqrt{ \frac{ 4\,k_e\,Q\,q }{ m\,R } }\;
+\frac{ \sin \bigl( \dfrac{\pi}{2n} \bigr) }
+     { \sqrt{ 1 - 4 \sin^{2}\bigl( \dfrac{\pi}{2n} \bigr) } } ,
+\qquad\text{valid for } n\ge 4"
+ELECTRICITY/653,0,0,\sqrt{2g a+\frac{\pi^2 B^2 r^4}{m L}},,
+ELECTRICITY/412,0,0,$$ T=2\pi\sqrt{\frac{\frac{1}{(z_0^{2}+R^{2})^{3/2}}(\frac{\mu_{0}n I\pi r^{2}}{2L}(1-\frac{z_0}{\sqrt{z_0^{2}+R^{2}}})-I_{0})}{g\left[(\frac{\mu_{0}n I\pi r^{2}}{2L}-I_{0})\frac{3z_{0}}{(z_{0}^{2}+R^{2})^{5/2}}-\frac{\mu_{0}n I\pi r^{2}}{2L}\frac{3z_{0}^{2}-R^{2}}{(z_{0}^{2}+R^{2})^{3}}\right]}} $$,"\;
+T = 2\pi
+\sqrt{
+\dfrac{m}
+{\dfrac{( \mu_{0}\, n\, I\, \pi r^{2} R^{2})^{2}}
+       {4 L\,(z_{e}^{2}+R^{2})^{3}}
++\dfrac{3\,\mu_{0}\, n\, I\, \pi r^{2} R^{2} z_{e}}
+       {2\,(z_{e}^{2}+R^{2})^{5/2}}
+\left[
+I_{0}+\dfrac{I\,\bigl[M(z_{0})-M(z_{e})\bigr]}{L}
+\right]}\;}","\;
+T = 2\pi
+\sqrt{
+\dfrac{m}
+{\dfrac{( \mu_{0}\, n\, I\, \pi r^{2} R^{2})^{2}}
+       {4 L\,(z_{e}^{2}+R^{2})^{3}}
++\dfrac{3\,\mu_{0}\, n\, I\, \pi r^{2} R^{2} z_{e}}
+       {2\,(z_{e}^{2}+R^{2})^{5/2}}
+\left[
+I_{0}+\dfrac{I\,\bigl[M(z_{0})-M(z_{e})\bigr]}{L}
+\right]}\;}"
+ELECTRICITY/43,0,0,I = A U_0 \left[\frac{\sigma_1 \sigma_2}{\sigma_1 h_2 + \sigma_2 h_1} + e^{-\frac{\sigma_1 h_2 + \sigma_2 h_1}{\varepsilon_1 h_2 + \varepsilon_2 h_1} t} \left(\frac{\varepsilon_2 \sigma_1 + \varepsilon_1 \sigma_2}{\varepsilon_1 h_2 + \varepsilon_2 h_1} - \frac{\sigma_1 \sigma_2}{\sigma_1 h_2 + \sigma_2 h_1} - \frac{\varepsilon_1 \varepsilon_2 (\sigma_1 h_2 + \sigma_2 h_1)}{(\varepsilon_1 h_2 + \varepsilon_2 h_1)^2} \right)\right],"\;
+I(t)= I_{\infty} + \bigl(I_{0}-I_{\infty}\bigr)\;e^{-t/\tau},
+\qquad t>0
+\;","\;
+I(t)= I_{\infty} + \bigl(I_{0}-I_{\infty}\bigr)\;e^{-t/\tau},
+\qquad t>0
+\;"
+MECHANICS/117,0,0,\delta y=\frac{64}{3}\frac{\sigma R^2 r}{M},"\;
+      \theta_{\max}\;\simeq\; 2\pi\;-\;8\,
+      \sqrt{ \dfrac{2\sigma r R}{3M} } \;","\;
+      \theta_{\max}\;\simeq\; 2\pi\;-\;8\,
+      \sqrt{ \dfrac{2\sigma r R}{3M} } \;"
+OPTICS/42,0,0,n_0 a \sqrt{\frac{a^2 q^2}{r^4} - \frac{q^2 - 1}{r^2}},"\;
+n(r)=n_{0}\,\frac{a}{r^{2}}\,
+\sqrt{\,q^{2}a^{2}+\left(1-q^{2}\right)r^{2}\;}
+\;=\;n_{0}\;\rho^{-2}\sqrt{\,q^{2}+(1-q^{2})\rho^{2}\,},\qquad
+\rho=\frac{r}{a}\;","\;
+n(r)=n_{0}\,\frac{a}{r^{2}}\,
+\sqrt{\,q^{2}a^{2}+\left(1-q^{2}\right)r^{2}\;}
+\;=\;n_{0}\;\rho^{-2}\sqrt{\,q^{2}+(1-q^{2})\rho^{2}\,},\qquad
+\rho=\frac{r}{a}\;"
+MECHANICS/37,0,0,\frac{\mu^2\omega hg}{2v},"\displaystyle a_y=\frac{1}{2}\,\mu^{2}\,g\,h\,\frac{\omega}{v}\quad (v\gg\omega r)","\displaystyle a_y=\frac{1}{2}\,\mu^{2}\,g\,h\,\frac{\omega}{v}\quad (v\gg\omega r)"
+ELECTRICITY/25,0,0,a(1-\cos\theta),"\,\,r(\theta)=\dfrac{a\,v_{0}^{2}}{v^{2}}\left(1-\cos\theta\right)
+       \;=\;\dfrac{2a\,v_{0}^{2}}{v^{2}}\sin^{2}\dfrac{\theta}{2}\,\,","\,\,r(\theta)=\dfrac{a\,v_{0}^{2}}{v^{2}}\left(1-\cos\theta\right)
+       \;=\;\dfrac{2a\,v_{0}^{2}}{v^{2}}\sin^{2}\dfrac{\theta}{2}\,\,"
+MECHANICS/100,0,0,\sqrt{\frac{2m g^2 l}{E a h^3}},"\;
+\displaystyle
+\omega
+      = g\sqrt{\frac{12\,m\,l}{6E\,a\,h^{3}}}
+      = g\sqrt{\frac{2m\,l}{E\,a\,h^{3}}}\;","\;
+\displaystyle
+\omega
+      = g\sqrt{\frac{12\,m\,l}{6E\,a\,h^{3}}}
+      = g\sqrt{\frac{2m\,l}{E\,a\,h^{3}}}\;"
+ELECTRICITY/89,0,0,3\omega^2 - \frac{Ne q_0}{2\pi m H \varepsilon_0 r_0^2} \left( \frac{(2k m_N r_0^2 - 1)e^{m_N k r_0^2} + 1}{e^{m_N k R^2} - 1} - \frac{(2k m_e r_0^2 - 1)e^{m_e k r_0^2} + 1}{e^{m_e k R^2} - 1} \right) + \frac{k N V \omega^2}{\pi m H} \left( \frac{(2k m_N r_0^2 + 1)e^{m_N k r_0^2}}{e^{m_N k R^2} - 1} m_N^2 + \frac{(2k m_c r_0^2 + 1)e^{m_c k r_0^2}}{e^{m_c k R^2} - 1} m_c^2 \right),"\;E(r)=\alpha\,r,\qquad \alpha\equiv\frac{\rho _{0}}{2\varepsilon
+_{0}}\;","\;E(r)=\alpha\,r,\qquad \alpha\equiv\frac{\rho _{0}}{2\varepsilon
+_{0}}\;"

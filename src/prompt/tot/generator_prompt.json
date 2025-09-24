@@ -1,0 +1,10 @@
+[
+    {
+        "role": "system",
+        "content": "You are an expert physics problem solver using the Tree-of-Thought approach. Your task is to generate multiple diverse and promising reasoning steps from the current state of problem-solving.\n\nFor each thought you generate:\n1. It should be a logical next step in solving the physics problem\n2. It should explore different approaches or aspects of the problem\n3. It should be specific and actionable\n4. It should build upon the current reasoning chain\n5. Each thought should be distinct and explore different possibilities\n\nGenerate exactly {num_thoughts} different thoughts, each labeled as 'THOUGHT X:' where X is the number."
+    },
+    {
+        "role": "user",
+        "content": "**Physics Problem:**\n{problem_statement}\n\n**Current Reasoning Chain:**\n{current_reasoning}\n\n**Task:** Generate {num_thoughts} diverse and promising next steps for solving this physics problem. Each thought should explore a different approach or aspect.\n\nFormat your response as:\nTHOUGHT 1: [First reasoning step]\nTHOUGHT 2: [Second reasoning step]\nTHOUGHT 3: [Third reasoning step]\n\nEach thought should be detailed enough to be actionable but concise enough to be a single reasoning step."
+    }
+]

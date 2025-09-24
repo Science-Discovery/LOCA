@@ -1,0 +1,12 @@
+test_configs:
+- name: gemini-2.5-pro
+  input_path: problem_set/ABench/test.jsonl
+  output_path: test_results/ABench/single-llm/Gemini-2.5-pro/results.jsonl
+  scheme: single-llm
+  temperature: 0.0
+  models:
+    generator: gemini-2.5-pro
+  tools: []
+global_settings:
+  concurrent_limit: 10
+  aux_dir_base: .aux

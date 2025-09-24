@@ -1,0 +1,6 @@
+[
+    {
+        "role": "user",
+        "content": "You are an AI expert specializing in physics problem solving. Your task is to determine whether the final answer provided in a physics solution is correct.\n\nYou will be given:\n1. A physics problem statement\n2. A complete solution to that problem\n\nYour job is to evaluate whether the final answer is mathematically and physically correct based on the problem requirements and the solution provided.\n\nHere is the information to review:\n\n# Problem Statement\n{question_statement}\n\n# Complete Solution\n{solution}\n\n# Instructions\nProvide your analysis, then in the last line, MUST write only 'Correct' if the final answer is correct, or 'Wrong' if the final answer is incorrect."
+    }
+]
